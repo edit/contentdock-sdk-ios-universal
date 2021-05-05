@@ -1,0 +1,11 @@
+framework module CDockFramework {
+  umbrella header "CDockFramework.h"
+
+  export *
+  module * { export * }
+}
+
+module CDockFramework.Swift {
+    header "CDockFramework-Swift.h"
+    requires objc
+}

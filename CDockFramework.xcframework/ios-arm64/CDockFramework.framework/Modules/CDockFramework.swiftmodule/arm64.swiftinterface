@@ -1,0 +1,77 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)
+// swift-module-flags: -target arm64-apple-ios14.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name CDockFramework
+@_exported import CDockFramework
+import Foundation
+import Swift
+import UIKit
+extension UIViewController {
+  @objc public static func initWith(_ sbName: Swift.String = "MainStoryboard", vcId: Swift.String) -> Self
+}
+@objc extension UIColor {
+  @objc convenience dynamic public init?(hex: Swift.String)
+  @objc dynamic public func hexStringToARGB() -> Swift.String
+  @objc dynamic public func hexStringToRGBA() -> Swift.String
+}
+@objc public class CDRubberPageIndicatorControlConfig : ObjectiveC.NSObject {
+  public var smallBubbleSize: CoreGraphics.CGFloat
+  public var mainBubbleSize: CoreGraphics.CGFloat
+  public var bubbleXOffsetSpace: CoreGraphics.CGFloat
+  public var bubbleYOffsetSpace: CoreGraphics.CGFloat
+  public var animationDuration: CoreFoundation.CFTimeInterval
+  public var smallBubbleMoveRadius: CoreGraphics.CGFloat {
+    get
+  }
+  public var backgroundColor: UIKit.UIColor
+  public var smallBubbleColor: UIKit.UIColor
+  public var bigBubbleColor: UIKit.UIColor
+  @objc public init(smallBubbleSize: CoreGraphics.CGFloat = 16, mainBubbleSize: CoreGraphics.CGFloat = 40, bubbleXOffsetSpace: CoreGraphics.CGFloat = 12, bubbleYOffsetSpace: CoreGraphics.CGFloat = 8, animationDuration: CoreFoundation.CFTimeInterval = 0.2, backgroundColor: UIKit.UIColor = UIColor(red: 0.357, green: 0.196, blue: 0.337, alpha: 1.000), smallBubbleColor: UIKit.UIColor = UIColor(red: 0.961, green: 0.561, blue: 0.518, alpha: 1.000), bigBubbleColor: UIKit.UIColor = UIColor(red: 0.788, green: 0.216, blue: 0.337, alpha: 1.000))
+  @objc deinit
+  @objc override dynamic public init()
+}
+@objc public class CDRubberPageIndicatorControl : UIKit.UIControl {
+  public var numberOfpage: Swift.Int {
+    get
+    set
+  }
+  @objc public var currentIndex: Swift.Int {
+    @objc get
+    @objc set
+  }
+  public var valueChange: ((Swift.Int) -> Swift.Void)?
+  public var styleConfig: CDockFramework.CDRubberPageIndicatorControlConfig {
+    get
+    set
+  }
+  @objc public init(frame: CoreGraphics.CGRect, count: Swift.Int, config: CDockFramework.CDRubberPageIndicatorControlConfig)
+  @objc required dynamic public init?(coder aDecoder: Foundation.NSCoder)
+  open func resetRubberIndicator()
+  @objc public func handleTapGestureRecognizer(_ ges: UIKit.UITapGestureRecognizer)
+  @objc public func setCurrentIndex(_ newIndex: Swift.Int, updateLayer: Swift.Bool)
+  @objc deinit
+  @objc override dynamic public init(frame: CoreGraphics.CGRect)
+}
+@_inheritsConvenienceInitializers @objc public class CDockPageObject : ObjectiveC.NSObject {
+  @objc public var pageId: Swift.String?
+  @objc public var pageName: Swift.String?
+  @objc public var pageImage: UIKit.UIImage?
+  @objc public var isActive: Swift.Bool
+  public func showMe()
+  public var pageSwipeLeft: CDockFramework.CDockPageObject? {
+    get
+  }
+  public var pageSwipeRight: CDockFramework.CDockPageObject? {
+    get
+  }
+  public var pageSwipeUp: CDockFramework.CDockPageObject? {
+    get
+  }
+  public var pageSwipeDown: CDockFramework.CDockPageObject? {
+    get
+  }
+  public var childrenPages: [CDockFramework.CDockPageObject] {
+    get
+  }
+  @objc deinit
+  @objc override dynamic public init()
+}
