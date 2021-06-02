@@ -16,7 +16,6 @@ FOUNDATION_EXPORT const unsigned char TEVFrameworkVersionString[];
 
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
-#import <CDockFramework/AppDelegate.h>
 #import <CDockFramework/CDockSDK.h>
 #import <CDockFramework/CDockCustomElement.h>
 #import <CDockFramework/CDockProjectModel.h>

@@ -8,329 +8,57 @@
 		<data>
 		dxAIJVu0ANkgeJ9xV/COEanD2+I=
 		</data>
-		<key>Base.lproj/MainStoryboard.storyboardc/12E-pS-Wmf-view-8TW-US-vb7.nib</key>
-		<data>
-		A/WVnGc7aNFedGJ2tOfCbd7jCYI=
-		</data>
-		<key>Base.lproj/MainStoryboard.storyboardc/387-xU-LmO-view-Qpv-A1-6fl.nib</key>
-		<data>
-		KNQ6m1BuQUtwAoVRDXJcxn+Utzg=
-		</data>
-		<key>Base.lproj/MainStoryboard.storyboardc/3FN-Ff-Kd8-view-f3W-46-05O.nib</key>
-		<data>
-		sMnsvpJ0kJGrKGwJtGo7vfxGp6I=
-		</data>
-		<key>Base.lproj/MainStoryboard.storyboardc/3O4-px-W37-view-FbF-ji-Xwh.nib</key>
-		<data>
-		s6wtIiCe3/5sajznD38XDbc8hqc=
-		</data>
-		<key>Base.lproj/MainStoryboard.storyboardc/79G-DF-W66-view-uCF-jW-kx1.nib</key>
-		<data>
-		OkWcIrN0ljBBSmpqwd1QIkCjx2s=
-		</data>
-		<key>Base.lproj/MainStoryboard.storyboardc/8ln-zv-1cJ-view-GCg-L3-dWX.nib</key>
-		<data>
-		21nDypnK0UbU7Ut6xjlp9QyyC8Y=
-		</data>
-		<key>Base.lproj/MainStoryboard.storyboardc/93O-V8-BS3-view-RC0-rx-HBa.nib</key>
-		<data>
-		O7LeAcUL5SXi6vfKc8jDmrbOk40=
-		</data>
-		<key>Base.lproj/MainStoryboard.storyboardc/Hvg-9p-Osd-view-du9-72-I3f.nib</key>
-		<data>
-		tXaleL9w6ArxyLXXA5GPys2BYes=
-		</data>
-		<key>Base.lproj/MainStoryboard.storyboardc/Info.plist</key>
-		<data>
-		ceSjjNr7P6oUteixjW9l1A178bU=
-		</data>
-		<key>Base.lproj/MainStoryboard.storyboardc/Prb-U8-Hpz-view-BJX-Mh-wrv.nib</key>
-		<data>
-		m2GmsxJVcpOiLX+8DjcNMkBNjtE=
-		</data>
-		<key>Base.lproj/MainStoryboard.storyboardc/UINavigationController-Q32-XG-ppx.nib</key>
-		<data>
-		xnfIVbYsBs4mMhl8izREDt7Dr+U=
-		</data>
-		<key>Base.lproj/MainStoryboard.storyboardc/VCCategories.nib</key>
-		<data>
-		ZLN2HrOBFNklGGWyJJOSAtj62ok=
-		</data>
-		<key>Base.lproj/MainStoryboard.storyboardc/VCLocalProjectsList.nib</key>
-		<data>
-		B9TH5FDESlimLTVDBPbr1GN4EcU=
-		</data>
-		<key>Base.lproj/MainStoryboard.storyboardc/VCMyDocks.nib</key>
-		<data>
-		IxwYCGaH7pbl1cSRHOz54hQ6o6o=
-		</data>
-		<key>Base.lproj/MainStoryboard.storyboardc/VCNoConnection.nib</key>
-		<data>
-		OyQ3pzJJJds4PetvBFB7KOOXMAk=
-		</data>
-		<key>Base.lproj/MainStoryboard.storyboardc/VCOpenDocks.nib</key>
-		<data>
-		28Sz0R1yQrZWmuLvhHXLZxqE7cQ=
-		</data>
-		<key>Base.lproj/MainStoryboard.storyboardc/VCProjectDetails.nib</key>
-		<data>
-		Gitl5iZ8r+DxXd+PD4hTZR66FKQ=
-		</data>
-		<key>Base.lproj/MainStoryboard.storyboardc/VCRegister.nib</key>
-		<data>
-		zJKQUjRD3wtMO5y3tamXgWJNb70=
-		</data>
-		<key>Base.lproj/MainStoryboard.storyboardc/VCRegistration.nib</key>
-		<data>
-		0R/tPG8mIQyLjifS6ryKnQTRerQ=
-		</data>
-		<key>Base.lproj/MainStoryboard.storyboardc/VCSearch.nib</key>
-		<data>
-		c7OhDKA1OqzxD/gDB+NAsUnDIhc=
-		</data>
-		<key>Base.lproj/MainStoryboard.storyboardc/VCSearchDocks.nib</key>
-		<data>
-		bRoX4ld+JBP9Ki+GWhJXPWrRfWs=
-		</data>
-		<key>Base.lproj/MainStoryboard.storyboardc/VCSettings.nib</key>
-		<data>
-		kwpgPEVqp+ZmCdTFBdXvGMCyXDM=
-		</data>
-		<key>Base.lproj/MainStoryboard.storyboardc/VCSettingsNoLogin.nib</key>
-		<data>
-		vhTkGzUoUnBT565SFH7T1UuZErs=
-		</data>
-		<key>Base.lproj/MainStoryboard.storyboardc/VCTEVTemplatesContainer.nib</key>
-		<data>
-		ewGHmiD4tqVv1fgocjIkEWE/9eE=
-		</data>
-		<key>Base.lproj/MainStoryboard.storyboardc/VCTour.nib</key>
-		<data>
-		bHKytE7wetckVqb8H/oEIoVxEM8=
-		</data>
-		<key>Base.lproj/MainStoryboard.storyboardc/Zwg-11-Hnu-view-Q4J-7z-m5C.nib</key>
-		<data>
-		Y1XxF/h+LEljnyLl12+lhxuINxw=
-		</data>
-		<key>Base.lproj/MainStoryboard.storyboardc/eQe-g4-yaZ-view-orS-IB-9N8.nib</key>
-		<data>
-		tHp2UmKzNCYdWGplAhUy+2wsNx0=
-		</data>
-		<key>Base.lproj/MainStoryboard.storyboardc/evE-zT-F2v-view-GVv-aF-oMy.nib</key>
-		<data>
-		730+Vu46WWqkEnH1iEuBTHQTuiU=
-		</data>
-		<key>Base.lproj/MainStoryboard.storyboardc/navLogin.nib</key>
-		<data>
-		Zcpj6v7yzsjDqgBEnd+zOcAxHmA=
-		</data>
-		<key>Base.lproj/MainStoryboard.storyboardc/navMyDocks.nib</key>
-		<data>
-		f3MQSrwbEkHlWrMdokPwnXAW0Rw=
-		</data>
-		<key>Base.lproj/MainStoryboard.storyboardc/navOpenDocks.nib</key>
-		<data>
-		mnsSTv3c1CoSivpvmumkqMysNWA=
-		</data>
-		<key>Base.lproj/MainStoryboard.storyboardc/navSearch.nib</key>
-		<data>
-		oFJE8Xe2UTxrEMi0Yv7NUmUEot8=
-		</data>
-		<key>Base.lproj/MainStoryboard.storyboardc/oSS-HZ-fft-view-VfS-1e-qgd.nib</key>
-		<data>
-		rPCHsukz2V4LF8/4hMX/zqZ7sfQ=
-		</data>
-		<key>Base.lproj/MainStoryboard.storyboardc/re5-2M-Qwd-view-GmS-Tv-wSI.nib</key>
-		<data>
-		/3DxN3BaKgj0B3NRgcUm86yVt3w=
-		</data>
-		<key>Base.lproj/MainStoryboard.storyboardc/s2d-TW-rlR-view-6K3-FF-WDU.nib</key>
-		<data>
-		VEZTpMIIe/92YEw6tSQNSVxT4Gk=
-		</data>
 		<key>CDockEndOfSwipe.nib</key>
 		<data>
-		qu5X+99+MGAjgdg/QHk7gUIXZ0E=
+		hPeftHx7xXTBRpqSbTGA8J465hY=
 		</data>
 		<key>CDockEndOfSwipePhone.nib</key>
 		<data>
-		T381nYy2kN2WWFdxiNCqZ3n7Ijo=
+		r2IZtqnJa4FSd4ckWSLa/6opKG8=
 		</data>
 		<key>CDockImageCell.nib</key>
 		<data>
-		c3hi/jc6U6SNWww0LKndcLx/Ywg=
+		TdEyS9Cbbn0+yVjODPEEY4Sd2CQ=
 		</data>
 		<key>CDockMapLayer.nib</key>
 		<data>
-		fUBCyIJ7CzVdWAZfQSDRM4KC8z8=
-		</data>
-		<key>CDockPhone.storyboardc/7iI-B3-4PW-view-mue-bQ-z5s.nib</key>
-		<data>
-		Iz+5StvqM1mAk7ISAFah9sakhPs=
-		</data>
-		<key>CDockPhone.storyboardc/A32-e2-jJZ-view-BCA-Eg-Lai.nib</key>
-		<data>
-		/R4wzal6+D8psxYkrTDH1B/t0lU=
-		</data>
-		<key>CDockPhone.storyboardc/ACP-Hh-1ph-view-DSL-PR-ndm.nib</key>
-		<data>
-		iEe7AYY+g9HUGGEubHSW+A8dGMk=
-		</data>
-		<key>CDockPhone.storyboardc/Fkq-Ob-dc8-view-n80-hg-JdN.nib</key>
-		<data>
-		JKv4ghEmC6SUGYwKab7V8r4G8UY=
-		</data>
-		<key>CDockPhone.storyboardc/Iir-8L-g3Z-view-xGF-Sr-g7o.nib</key>
-		<data>
-		SbXeN2lzJtK4e2QoKGNo+P5F7NI=
-		</data>
-		<key>CDockPhone.storyboardc/Info.plist</key>
-		<data>
-		xPhpOG4vZ99qS1OeCvMp6o91nD8=
-		</data>
-		<key>CDockPhone.storyboardc/L2w-Ye-uvR-view-AiL-6Q-1Kt.nib</key>
-		<data>
-		0DcEb8PRm4nK3AHlkFOZRsfcbRc=
-		</data>
-		<key>CDockPhone.storyboardc/UINavigationController-18C-gL-1CU.nib</key>
-		<data>
-		5sUdUvcFDlLrsO9vTLmcQRd5lrQ=
-		</data>
-		<key>CDockPhone.storyboardc/UIViewController-Fkq-Ob-dc8.nib</key>
-		<data>
-		AsX1sXqRmQB9Np+mXe9eYdA1OsA=
-		</data>
-		<key>CDockPhone.storyboardc/UIViewController-xJq-xT-RcL.nib</key>
-		<data>
-		Ak7vuhY1FifWeLTFGKefLkLW94o=
-		</data>
-		<key>CDockPhone.storyboardc/VCCategories.nib</key>
-		<data>
-		hB7cbWjiTfBE1x1YwNumrCX6WfY=
-		</data>
-		<key>CDockPhone.storyboardc/VCMyDocks.nib</key>
-		<data>
-		+eOO75+zJiMBR/v5F2o3hM9RDNY=
-		</data>
-		<key>CDockPhone.storyboardc/VCNoConnection.nib</key>
-		<data>
-		5FnY2A2UYcoZAkSpvxZO3DZrI4w=
-		</data>
-		<key>CDockPhone.storyboardc/VCOpenDocks.nib</key>
-		<data>
-		+YE2gbmpS/YaBrVCr9Wnhp7hI84=
-		</data>
-		<key>CDockPhone.storyboardc/VCProjectDetails.nib</key>
-		<data>
-		2oaCehgi4BauKTRSIi+ervebeNY=
-		</data>
-		<key>CDockPhone.storyboardc/VCSearchDocks.nib</key>
-		<data>
-		ske4KoE4z+kHA0KCNMw5otNvSjs=
-		</data>
-		<key>CDockPhone.storyboardc/VCTEVTemplatesContainer.nib</key>
-		<data>
-		GX4FEG7xP3LNHLgOf6sQSp1Rd8A=
-		</data>
-		<key>CDockPhone.storyboardc/Xig-ug-grV-view-E7U-8W-iB4.nib</key>
-		<data>
-		IZO9CPDYpvXRP5hZ5rylrmZIJcI=
-		</data>
-		<key>CDockPhone.storyboardc/axq-uQ-i59-view-J66-11-2hL.nib</key>
-		<data>
-		CzbLFf49gLShzVNQ+3dCbKHsz3Y=
-		</data>
-		<key>CDockPhone.storyboardc/f8O-l9-4M0-view-NVQ-o2-h8Q.nib</key>
-		<data>
-		PGjExuCgxZkcYK9jjwc5+vcsw70=
-		</data>
-		<key>CDockPhone.storyboardc/gsU-A5-y4P-view-L9R-7X-UNC.nib</key>
-		<data>
-		UtmvKaLEBAXOQ2fG1AVjhKCltJA=
-		</data>
-		<key>CDockPhone.storyboardc/ift-Fj-1QG-view-wA7-gt-3kD.nib</key>
-		<data>
-		e6DGm5GicBT2CR0yNbtAvhCdhbE=
-		</data>
-		<key>CDockPhone.storyboardc/navCategories.nib</key>
-		<data>
-		+7zpyBMTJgEVfVzsV+lZIjXBZZI=
-		</data>
-		<key>CDockPhone.storyboardc/navLocalDocks.nib</key>
-		<data>
-		0lMvqDrxqNbOPFEktKRLyxC/5GQ=
-		</data>
-		<key>CDockPhone.storyboardc/navLogin.nib</key>
-		<data>
-		+gq1Ru2W0z6ETfJU5t5kUZWCHCU=
-		</data>
-		<key>CDockPhone.storyboardc/navMyDocks.nib</key>
-		<data>
-		Sr4jh2fghiRQ4UluF/41LNHNN90=
-		</data>
-		<key>CDockPhone.storyboardc/navOpenDocks.nib</key>
-		<data>
-		OlAayhhoMDHy8mTMOs501a7T7lw=
-		</data>
-		<key>CDockPhone.storyboardc/navSearch.nib</key>
-		<data>
-		RWEwU2nlP7ww892j0hSe37DONKk=
-		</data>
-		<key>CDockPhone.storyboardc/navSettings.nib</key>
-		<data>
-		I5zG2IG0fW7a2hzz/JObmbhQkfU=
-		</data>
-		<key>CDockPhone.storyboardc/navTour.nib</key>
-		<data>
-		ZKjbtBVEOMgzmA3+MlE4OXa2asA=
-		</data>
-		<key>CDockPhone.storyboardc/tbZ-2G-fu6-view-Tkh-Zi-nre.nib</key>
-		<data>
-		N06fHUrDMURA2Q41f2yaijix2n0=
-		</data>
-		<key>CDockPhone.storyboardc/wLj-Dh-PdK-view-raH-Z5-Dof.nib</key>
-		<data>
-		q78y6DcIPAEaVpOBursQQbhSr0I=
-		</data>
-		<key>CDockPhone.storyboardc/xJq-xT-RcL-view-zgS-OV-7F5.nib</key>
-		<data>
-		uzX1oPOjiVqffQqZk7jNLz4dYrU=
+		xUMA+Rt4SElOaZ1jVAkvEcGKTOU=
 		</data>
 		<key>CDockProjectImpress.nib</key>
 		<data>
-		fD16gN57x3prMMDC56O9OuKaoqo=
+		CryWgslqlIAiCKyPGxWnRYMtTNI=
 		</data>
 		<key>CDockProjectImpressPhone.nib</key>
 		<data>
-		77UU+9aEelNoo/WX+XGOBVBXTqc=
+		AFGi+hbW5GhmZcNecfAjLnusnSI=
 		</data>
 		<key>CDockProjectLayer.nib</key>
 		<data>
-		aONcaLkzsIS/Rnys4EJz4a+hUjQ=
+		yMHISkFFxKsCvcj9lpjd0C/7QaE=
 		</data>
 		<key>CDockSiteTree.nib</key>
 		<data>
-		JCF7ywfKHiz+nhQ9Dd7n6fdeZrw=
+		tgq8SxuACVO2uOl64uMsaTpEWCY=
 		</data>
 		<key>CDockSiteTreeItem.nib</key>
 		<data>
-		nEya+4fQZsU3vuJAHmziVsKkIak=
+		rjHUDUbtuz0kAIMRn+KrDbRRy9w=
 		</data>
 		<key>CDockTemplate.nib</key>
 		<data>
-		Xd9PH1/PfB/JAQGo0r4Jy6+1UWA=
+		iRKHW6h3yYBhud4yovsofgVxeZE=
 		</data>
 		<key>CDockTemplatesContainer.nib</key>
 		<data>
-		XpTgC5OML1mZp5SiXMK/uhzcm50=
+		LNupJUkuI6Aln5cj18CILAgHuVM=
 		</data>
 		<key>CDockThumbnail.nib</key>
 		<data>
-		/y4nX5gmYyeyerBNtHan2uN+WDw=
+		v+HTUlwP/C89ZR/qp11qP4tFnhA=
 		</data>
 		<key>CDockThumbnailItem.nib</key>
 		<data>
-		Y+jj5Uixr6aGOTrXIVl7m4otj54=
+		2QEz9fTfHQdJgz3C6zNCj6204+Y=
 		</data>
 		<key>Data.momd/Data.mom</key>
 		<data>
@@ -339,10 +67,6 @@
 		<key>Data.momd/VersionInfo.plist</key>
 		<data>
 		iJfJkr+hGQ+IwoW55kuJmgetgmY=
-		</data>
-		<key>Headers/AppDelegate.h</key>
-		<data>
-		Gi/Hy8ZgKHAAKuRk08nGTvVneKg=
 		</data>
 		<key>Headers/CDockCategoryModel.h</key>
 		<data>
@@ -366,7 +90,7 @@
 		</data>
 		<key>Headers/CDockFramework.h</key>
 		<data>
-		WhtUQ/NVYGSbt0v1QuZ+E1qno+g=
+		0po+uqA601baEvTJTzVh17yVM4o=
 		</data>
 		<key>Headers/CDockProjectModel.h</key>
 		<data>
@@ -374,7 +98,7 @@
 		</data>
 		<key>Headers/CDockSDK.h</key>
 		<data>
-		egHU7EEK4WVAdhs0JwhY7WxsOhc=
+		liVEwORxu9s+rAV8igoXc1xfJP0=
 		</data>
 		<key>Headers/CDockUIImageView.h</key>
 		<data>
@@ -382,7 +106,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		KL5x+eksMPQ6MFnmPDAuu0tmJHE=
+		fc8ZPkuMscw9JUMpQd6DN4mUBK4=
 		</data>
 		<key>Modules/CDockFramework.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -548,7 +272,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			yTHxFWneKW1BuCzu9ohC2MbyrgQ=
+			BMrUPfpKVC8h8uVK5TbMoW+iX5w=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -749,7 +473,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Ehw3AvJNt9fbTiNgE01H6r9e2Y8=
+			47UTZbBjsACaDxFWWVrQpsj3eyM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -864,571 +588,95 @@
 			nH6n6UryiBVtdz6M6eA5RmTlo1LcL4n7sfnnSm/SvRE=
 			</data>
 		</dict>
-		<key>Base.lproj/MainStoryboard.storyboardc/12E-pS-Wmf-view-8TW-US-vb7.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			LJXjJTj9XPeuvNCZoIQATUE56Mnzsbew4SRfcYiEDZY=
-			</data>
-		</dict>
-		<key>Base.lproj/MainStoryboard.storyboardc/387-xU-LmO-view-Qpv-A1-6fl.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			G3Aujfdq6/B4vJsYiwpEsFm4IRkxWM2zORJdCmJQEtE=
-			</data>
-		</dict>
-		<key>Base.lproj/MainStoryboard.storyboardc/3FN-Ff-Kd8-view-f3W-46-05O.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			seg5CiAxVQ8OCaTFzHLRk0iQbJRB20SYJhXSoM60W1E=
-			</data>
-		</dict>
-		<key>Base.lproj/MainStoryboard.storyboardc/3O4-px-W37-view-FbF-ji-Xwh.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			SKkZjDmCf0fud6K/S5/xi3tXJzb7zAKHufgnmMpy14g=
-			</data>
-		</dict>
-		<key>Base.lproj/MainStoryboard.storyboardc/79G-DF-W66-view-uCF-jW-kx1.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			CvEZ7zuWjV09RODYv32DrAv5Geev8SrsyP98l3HxaRk=
-			</data>
-		</dict>
-		<key>Base.lproj/MainStoryboard.storyboardc/8ln-zv-1cJ-view-GCg-L3-dWX.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Ma4fA0XDJVzokJlQs8y9Vat860FfuNyKwng178BVxEE=
-			</data>
-		</dict>
-		<key>Base.lproj/MainStoryboard.storyboardc/93O-V8-BS3-view-RC0-rx-HBa.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			72k1T0UeZeWihcqb0T55yhzR1WBIKmtsuSNo3aMFOpo=
-			</data>
-		</dict>
-		<key>Base.lproj/MainStoryboard.storyboardc/Hvg-9p-Osd-view-du9-72-I3f.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			wXOewihtgDAZQ6QDxOwP5yKSQGacETriq7xeRfImC5U=
-			</data>
-		</dict>
-		<key>Base.lproj/MainStoryboard.storyboardc/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			BAc8WFBLejdazbE8UkB6/JAiEt01KMXTqG/hHWpBr+g=
-			</data>
-		</dict>
-		<key>Base.lproj/MainStoryboard.storyboardc/Prb-U8-Hpz-view-BJX-Mh-wrv.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			NuvDRo+wr1nB7JIXhURx68XzDSk2aEozJ1oFS57+0TM=
-			</data>
-		</dict>
-		<key>Base.lproj/MainStoryboard.storyboardc/UINavigationController-Q32-XG-ppx.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			giGCFmGD6kUmzq2f6GIJKxvkv0mMKQD8cSk71dbJQz8=
-			</data>
-		</dict>
-		<key>Base.lproj/MainStoryboard.storyboardc/VCCategories.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			/8sONyHav6R62c3tcHhwyr/izR7tCvsz5Ck6xMNJ4JM=
-			</data>
-		</dict>
-		<key>Base.lproj/MainStoryboard.storyboardc/VCLocalProjectsList.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			fCgCYB7bcyL8F9IxmuSdxpbm+Gim3Tt92QApQj6cS/w=
-			</data>
-		</dict>
-		<key>Base.lproj/MainStoryboard.storyboardc/VCMyDocks.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			0/Gv+4chertt1KgbAbIANFqZAUAWXP+/8eTHLjNdSvE=
-			</data>
-		</dict>
-		<key>Base.lproj/MainStoryboard.storyboardc/VCNoConnection.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			uiR++Du+Yi9/ZPkg0gzYEYvRMCkLuHmtHYFjIyJnrtw=
-			</data>
-		</dict>
-		<key>Base.lproj/MainStoryboard.storyboardc/VCOpenDocks.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			FH8MSs9+ogo1QAtK4WhfTEz2F96TWvFVS3jYHSbWj2Y=
-			</data>
-		</dict>
-		<key>Base.lproj/MainStoryboard.storyboardc/VCProjectDetails.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			dMfPK/35PDtSd78NNt3ynTzoQFsicIAuoE68h0MMOVA=
-			</data>
-		</dict>
-		<key>Base.lproj/MainStoryboard.storyboardc/VCRegister.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			DkiOaq/8P5j+CbQ7BjtgaJSNM0G+7PLs6NZq4fYL7jo=
-			</data>
-		</dict>
-		<key>Base.lproj/MainStoryboard.storyboardc/VCRegistration.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			x/Ip2w3uON07T9VLUxqz/tLoOV1bFar0NOnxMWEVYpA=
-			</data>
-		</dict>
-		<key>Base.lproj/MainStoryboard.storyboardc/VCSearch.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			kFxYzyk0FUSDiPX4EPk2rex0JVFyqXKPsZxfe6LD8NA=
-			</data>
-		</dict>
-		<key>Base.lproj/MainStoryboard.storyboardc/VCSearchDocks.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Hiyn+7GiMqyTPDkeeqhiv9e5rAFY44m0vq4Wkcwv1vM=
-			</data>
-		</dict>
-		<key>Base.lproj/MainStoryboard.storyboardc/VCSettings.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			EDqH8nmXeoT9N1Z2AFvmfy7pAFUhAdeKpCvNwFkJOYA=
-			</data>
-		</dict>
-		<key>Base.lproj/MainStoryboard.storyboardc/VCSettingsNoLogin.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Jc4DP1djNKXNOcNCvfbGWqTUouX+InRMm5ii28uMTCc=
-			</data>
-		</dict>
-		<key>Base.lproj/MainStoryboard.storyboardc/VCTEVTemplatesContainer.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			/1njwAbnxcZneNsAyZILNNXr7mT33v9EF7FDR5LOCHs=
-			</data>
-		</dict>
-		<key>Base.lproj/MainStoryboard.storyboardc/VCTour.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			lMCCKpuk8O+FWOCkh1l3LOhqr9U54iBFxeY97NswT9k=
-			</data>
-		</dict>
-		<key>Base.lproj/MainStoryboard.storyboardc/Zwg-11-Hnu-view-Q4J-7z-m5C.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			pvAJiGGiEus+j/35f/MTa1dzCx7eA1ViHE0LTP4fhtc=
-			</data>
-		</dict>
-		<key>Base.lproj/MainStoryboard.storyboardc/eQe-g4-yaZ-view-orS-IB-9N8.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			0AaH+FLkW1EP9BAu+9TPItr2i+Em9Br/ph27DsBa1yg=
-			</data>
-		</dict>
-		<key>Base.lproj/MainStoryboard.storyboardc/evE-zT-F2v-view-GVv-aF-oMy.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			6WGMHgmbPGIKfC/PvsZPwmK7RKMGtY4nIHpx2OPmvEU=
-			</data>
-		</dict>
-		<key>Base.lproj/MainStoryboard.storyboardc/navLogin.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			LIbfEvunyUNyZq+1E9tag2bvlnKca+awsXLhz5qEWxI=
-			</data>
-		</dict>
-		<key>Base.lproj/MainStoryboard.storyboardc/navMyDocks.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			IId0saLXkfHiBD2ChC8l0NbNifEj6M73lJp9gHkubHY=
-			</data>
-		</dict>
-		<key>Base.lproj/MainStoryboard.storyboardc/navOpenDocks.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			FVbMFyhSI/qvSK29eukgbjFGbwwjufhpIu/KW2YodO4=
-			</data>
-		</dict>
-		<key>Base.lproj/MainStoryboard.storyboardc/navSearch.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			zHyIeRdAu9KlJzXtk0hDNkAhHliiILbrCYGGbpnZCgc=
-			</data>
-		</dict>
-		<key>Base.lproj/MainStoryboard.storyboardc/oSS-HZ-fft-view-VfS-1e-qgd.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			W0DqY3FYjS4V+/mHjaz90x74QGd5Eofmpx/rBhtUMBQ=
-			</data>
-		</dict>
-		<key>Base.lproj/MainStoryboard.storyboardc/re5-2M-Qwd-view-GmS-Tv-wSI.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			QCPwAexafHwSR3IJ8Uem4axAarUKBvEiKmZTOsqdIdM=
-			</data>
-		</dict>
-		<key>Base.lproj/MainStoryboard.storyboardc/s2d-TW-rlR-view-6K3-FF-WDU.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			RZWKuk7cwMokOAYnpmEOodnDwAZe2YQ2R445uHcEqwk=
-			</data>
-		</dict>
 		<key>CDockEndOfSwipe.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pGbpt3SvPgRUZmUqWexPCm7NkrX5Rhweutbyjezluww=
+			g6lMMzwj1+6nPuoPh/HOxA4S1VnI0QpfkqmIJ0fw6d4=
 			</data>
 		</dict>
 		<key>CDockEndOfSwipePhone.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ns8nfwp/oeky+/za/KwUhz+mFFKGkP1tSt/RiXOXmR8=
+			J1ESOFfonr0yoHNT++8ekqZndRSX5TcFGNqo1mNGpto=
 			</data>
 		</dict>
 		<key>CDockImageCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QfrgVdlbbgwQO+3ujK3nYW+eLQO5RPF1p3rKA2kGd18=
+			lyG261W/VqhI//y3mHtgNnW4JbfgdYCCJOVYoyreED4=
 			</data>
 		</dict>
 		<key>CDockMapLayer.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OhI1OcWm33uc707zxTs7rHu39ZvvL9wMtU3fgw1UhdU=
-			</data>
-		</dict>
-		<key>CDockPhone.storyboardc/7iI-B3-4PW-view-mue-bQ-z5s.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			EWiEv8gGX1XfPv/qM9RbH0ah1z4+gaLcAcYDM58NfIM=
-			</data>
-		</dict>
-		<key>CDockPhone.storyboardc/A32-e2-jJZ-view-BCA-Eg-Lai.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			juQLGiLDAAgAyN65IRFNEPZ96yy0cPIk1YohRBf5YD0=
-			</data>
-		</dict>
-		<key>CDockPhone.storyboardc/ACP-Hh-1ph-view-DSL-PR-ndm.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			/QhMRhS6SQsVyYeRAdbrZw0U75CmYOCibUmYt1Rk1Qk=
-			</data>
-		</dict>
-		<key>CDockPhone.storyboardc/Fkq-Ob-dc8-view-n80-hg-JdN.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			T84SDTUSsEYdn4+qnNPU1wQe+gZDg5JkojBZ3kxmcnk=
-			</data>
-		</dict>
-		<key>CDockPhone.storyboardc/Iir-8L-g3Z-view-xGF-Sr-g7o.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ao6YIqio8bWMayTA1geP5TUE+StCXQDQPyEemZ+hBbo=
-			</data>
-		</dict>
-		<key>CDockPhone.storyboardc/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			zXHVj0mmCA4vy+bX43gJ5aCofyTnaPHICSUZ7KnDtGQ=
-			</data>
-		</dict>
-		<key>CDockPhone.storyboardc/L2w-Ye-uvR-view-AiL-6Q-1Kt.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			jFmdF1p9t6b4sZ72WuXbUEeOtK5fA+4jYV3UOt3O2LI=
-			</data>
-		</dict>
-		<key>CDockPhone.storyboardc/UINavigationController-18C-gL-1CU.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			DP9RMShO3ew6hQTiQp2GzcOHAIMeR3l2vzSb4FB6ZM0=
-			</data>
-		</dict>
-		<key>CDockPhone.storyboardc/UIViewController-Fkq-Ob-dc8.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			xrIGFgc0cgiR66RaKgs9QhxEuTW1BqQCIkV5glVvCjU=
-			</data>
-		</dict>
-		<key>CDockPhone.storyboardc/UIViewController-xJq-xT-RcL.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			49yedXG9EHga5IkulAPiR5kMOPb3a/q5b5AKO3GJ914=
-			</data>
-		</dict>
-		<key>CDockPhone.storyboardc/VCCategories.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			uu0rUiCG45+26j8RKCmy5Mh1Hdnl7jizj3z68nONi5c=
-			</data>
-		</dict>
-		<key>CDockPhone.storyboardc/VCMyDocks.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Sk7VXvQndtcMC/35LjTaSSVjbBOCcPCimISMSyantEo=
-			</data>
-		</dict>
-		<key>CDockPhone.storyboardc/VCNoConnection.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			1AJRTIR0xxPX/2TmJjeNqoBHuwVvwcCM8kK61DtkjLI=
-			</data>
-		</dict>
-		<key>CDockPhone.storyboardc/VCOpenDocks.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			RoCgGoXvEpaArTjzTcInfHI6kXyRyEIAoPfneG3b/lU=
-			</data>
-		</dict>
-		<key>CDockPhone.storyboardc/VCProjectDetails.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			4bPbRtPkIV3ZHU6PS7NPOM4GkDud84nKcWgKNqFCfs8=
-			</data>
-		</dict>
-		<key>CDockPhone.storyboardc/VCSearchDocks.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			tJagTs/PwMID/BweOC4KQzOp7OeyWKottPLAP9GpbbU=
-			</data>
-		</dict>
-		<key>CDockPhone.storyboardc/VCTEVTemplatesContainer.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			SbZEUDS7Si2Oy0LfBW6H4NaL7vTdaSoChaOE/Z9eCuM=
-			</data>
-		</dict>
-		<key>CDockPhone.storyboardc/Xig-ug-grV-view-E7U-8W-iB4.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			K42Tr6KlmJJLdcmwN27nDacT3zHnY1Nmm7Pwwakoc5o=
-			</data>
-		</dict>
-		<key>CDockPhone.storyboardc/axq-uQ-i59-view-J66-11-2hL.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			trczEtUhUeVYa5eC3WigV3vxSni89vqwpYi3xN8uUJQ=
-			</data>
-		</dict>
-		<key>CDockPhone.storyboardc/f8O-l9-4M0-view-NVQ-o2-h8Q.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			6NJ3it1sw646OvFWqyn0xgw3uY3c8uPfYd1gkac1ODc=
-			</data>
-		</dict>
-		<key>CDockPhone.storyboardc/gsU-A5-y4P-view-L9R-7X-UNC.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			yojaqa+F9Fz0l0C4xdcf00I0f5tVs9hi5u9XebzMZxg=
-			</data>
-		</dict>
-		<key>CDockPhone.storyboardc/ift-Fj-1QG-view-wA7-gt-3kD.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ITNS7f2zDJUk6D1wBw5BeOYYdxp4Gn4AV6ZgwQl9IFE=
-			</data>
-		</dict>
-		<key>CDockPhone.storyboardc/navCategories.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			2UDGa4yo0t2e08S7NB29t+frqzhm8QrpkHXtDtTT1pM=
-			</data>
-		</dict>
-		<key>CDockPhone.storyboardc/navLocalDocks.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			X9eyUm2gleOtduRDeiw8G6U0p0QXZGLigocTqsMm4w0=
-			</data>
-		</dict>
-		<key>CDockPhone.storyboardc/navLogin.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			yInJ6O6lZdaF5nJ2zUB/hmVcrkZGOijHZlBdyUV7K7E=
-			</data>
-		</dict>
-		<key>CDockPhone.storyboardc/navMyDocks.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			a8i1oTZtKr5J89oFABrBYeuFofEwf8k758lnVNPv6WY=
-			</data>
-		</dict>
-		<key>CDockPhone.storyboardc/navOpenDocks.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ntmL7eIvmGVYH/QdMVNxYuFK/w5wKrs2QZ7eEdZwQQg=
-			</data>
-		</dict>
-		<key>CDockPhone.storyboardc/navSearch.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			RXvE+uCTSZI0iUNUDMShkk8Yg/8rWD9XC2ZYh5VB6Jw=
-			</data>
-		</dict>
-		<key>CDockPhone.storyboardc/navSettings.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			TwX/mBTfEt/Uzv/si5q5sLuzvlBEt+2FynSWtr1mKd4=
-			</data>
-		</dict>
-		<key>CDockPhone.storyboardc/navTour.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			QmRaM1DG1bm4UiDP1lPDhif2uRJSgdoV2M/rK+s/LxY=
-			</data>
-		</dict>
-		<key>CDockPhone.storyboardc/tbZ-2G-fu6-view-Tkh-Zi-nre.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			VDBESeI9UjqBmnC0UnmM5fZdX8LDgSYvYrUxUa7I5ac=
-			</data>
-		</dict>
-		<key>CDockPhone.storyboardc/wLj-Dh-PdK-view-raH-Z5-Dof.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			L3LaRl9YFyuUn8xrt7zMvwiEX68Q8Iat2Pl3ydrnHWY=
-			</data>
-		</dict>
-		<key>CDockPhone.storyboardc/xJq-xT-RcL-view-zgS-OV-7F5.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			etQb4EO2JSdm0eOqBmha/4T2JQGCNMwDQdiTh2fU2Qo=
+			P9O6LSMLgME+vTemLcfazrfYDf9ldLT4KKtAIRImkTA=
 			</data>
 		</dict>
 		<key>CDockProjectImpress.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eRjgWzD1mJxvi2QLfXEikeg2uJQOI6IUHQQbFjzGrqI=
+			Vcd1+ytqovv62eaP1geBs5y8ZtSSVd4lNmikZwXS2Ys=
 			</data>
 		</dict>
 		<key>CDockProjectImpressPhone.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zFyCO9ugE/JWUBeGRkJPNSlSkI7lGureZ5PTfEHMDNo=
+			7yZrgyLOWMvf752Q3enPs3ueyGPnURHiF/dAZL/cWcU=
 			</data>
 		</dict>
 		<key>CDockProjectLayer.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Qh7aga+6mVYVz1zY6OrgbKR8fugU8DOXmkj0zEdyXiY=
+			yZj0NCni5+yxiGGHDo8UqMuWnEtM7HYU0gcxL6JR490=
 			</data>
 		</dict>
 		<key>CDockSiteTree.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			h6wPYY+JidSFYXS2zumiPAvlZjvwrebNbWCjjNgMJEQ=
+			nY/kxm0rTDK7RseTkqj0kTJ380C3kLT/zcoRYsOScGw=
 			</data>
 		</dict>
 		<key>CDockSiteTreeItem.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			X3zKoa1JSz2jdjkcLn8/UI2Z5Rv6xrPyx+NZ8TTum3M=
+			0hUQYmqVaVBlNcPe/atUg6RbOnVH+4zof7NdDgaNVE0=
 			</data>
 		</dict>
 		<key>CDockTemplate.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			27Kb0sSvW39M8/ZJFsjH/nz6pqNMVEBp/nbTwPAcLG4=
+			4pBICnXv1brTETnTJNNChxuJtHrtkR453H9hsDzUnCQ=
 			</data>
 		</dict>
 		<key>CDockTemplatesContainer.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BwT+OnFNpyz9N9n/xEHyTvjK2DOoJeM7TtVuri6A8BU=
+			eyGjOL+WU5/sP3IG8c6nePMFueosgh9vN3ZxPkCO9Lc=
 			</data>
 		</dict>
 		<key>CDockThumbnail.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kX5EVCLXtQWf4loyXPeg1ocuuCVd/g6UCVhhF8OdIXo=
+			2ujqUNFyVIJGSz/+mLCEyvW06gtjHlkmM4OJXlavdDk=
 			</data>
 		</dict>
 		<key>CDockThumbnailItem.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5XJBunddo/un8NF/aRAJvqySbLyEFK/nx1SZEMU5I+c=
+			8yhhKTaL0Mq+lDUo8nQjHUc2atD7ACM8JH2W99Ll3XE=
 			</data>
 		</dict>
 		<key>Data.momd/Data.mom</key>
@@ -1443,13 +691,6 @@
 			<key>hash2</key>
 			<data>
 			+ugK64zbn9CTaRmPK5wEXwkWAF2Kow3spRbkJhlhr8c=
-			</data>
-		</dict>
-		<key>Headers/AppDelegate.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			JkYKa2q70P/t2ak9wkI41Cef3irkJkK/ofstcPYMU88=
 			</data>
 		</dict>
 		<key>Headers/CDockCategoryModel.h</key>
@@ -1491,7 +732,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rDLnpTdJzXPoszjP+1WuroWG5FvJhmsXfcmDWHpaHgk=
+			NHkOcrNqb68VKaaYg0rPpcHpjFR3DYL/tlu+yKEtrkU=
 			</data>
 		</dict>
 		<key>Headers/CDockProjectModel.h</key>
@@ -1505,7 +746,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			q17+G0ZgmFJ2tsvNuhtgjTnXmhk3C13SP32JAFrBZ6g=
+			n757nKjXjkkY0WOXcYvKI1Eg04b8XkxH7grs6xOBVbg=
 			</data>
 		</dict>
 		<key>Headers/CDockUIImageView.h</key>
@@ -1799,7 +1040,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+dl0QzuaQAQGZ05ACQ0Y9pLUch7e2q3KVL6T6x5uVpI=
+			lSHD0dEA5ejtS+K8/izsKeAVEIwVx2oS2ZnYns18shE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2144,7 +1385,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/dU8HGuG/FW7TPe+XYHiI43hpu7p+J2fZKsreuxNXw4=
+			xj7+vfMVHx6sWb7+rb7ke437MzLwAJdcK34gcR0rcFM=
 			</data>
 			<key>optional</key>
 			<true/>
