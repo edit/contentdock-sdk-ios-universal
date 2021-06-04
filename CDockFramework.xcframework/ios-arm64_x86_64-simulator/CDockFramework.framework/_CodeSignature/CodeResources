@@ -6,59 +6,59 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		dxAIJVu0ANkgeJ9xV/COEanD2+I=
+		wXv8eLXLLwIksWRz3kh0f8K1Oo8=
 		</data>
 		<key>CDockEndOfSwipe.nib</key>
 		<data>
-		hPeftHx7xXTBRpqSbTGA8J465hY=
+		c+JH5FB7sx/Pm9XU0oMw/81P33c=
 		</data>
 		<key>CDockEndOfSwipePhone.nib</key>
 		<data>
-		r2IZtqnJa4FSd4ckWSLa/6opKG8=
+		ySxSoX3xPsPYYvcVRa+U9UFjWEM=
 		</data>
 		<key>CDockImageCell.nib</key>
 		<data>
-		TdEyS9Cbbn0+yVjODPEEY4Sd2CQ=
+		Q6uKYwoqjbOeCp2rgw2/MSyO/4c=
 		</data>
 		<key>CDockMapLayer.nib</key>
 		<data>
-		xUMA+Rt4SElOaZ1jVAkvEcGKTOU=
+		am0gC762H03pcsJUP7X24Ev2+eg=
 		</data>
 		<key>CDockProjectImpress.nib</key>
 		<data>
-		CryWgslqlIAiCKyPGxWnRYMtTNI=
+		elFJSn9kGIIEqjdR2/939/o9oYE=
 		</data>
 		<key>CDockProjectImpressPhone.nib</key>
 		<data>
-		AFGi+hbW5GhmZcNecfAjLnusnSI=
+		Wvtvw2xu60U+ddnh2TkBCCCWKes=
 		</data>
 		<key>CDockProjectLayer.nib</key>
 		<data>
-		yMHISkFFxKsCvcj9lpjd0C/7QaE=
+		uK+256cigLUn7PW8qwecdb491pA=
 		</data>
 		<key>CDockSiteTree.nib</key>
 		<data>
-		tgq8SxuACVO2uOl64uMsaTpEWCY=
+		rEpWDh3VNaWfoGtNCfQT0h3UkyY=
 		</data>
 		<key>CDockSiteTreeItem.nib</key>
 		<data>
-		rjHUDUbtuz0kAIMRn+KrDbRRy9w=
+		/usEKTYpFtUohyZbrYbZbFXj3yg=
 		</data>
 		<key>CDockTemplate.nib</key>
 		<data>
-		iRKHW6h3yYBhud4yovsofgVxeZE=
+		yfTc2+Jznf1Nh0uww7aRuJXzjCg=
 		</data>
 		<key>CDockTemplatesContainer.nib</key>
 		<data>
-		LNupJUkuI6Aln5cj18CILAgHuVM=
+		mqU0WrVBTVVnHmO6TtjaA6T0ccg=
 		</data>
 		<key>CDockThumbnail.nib</key>
 		<data>
-		v+HTUlwP/C89ZR/qp11qP4tFnhA=
+		PD3Lep+1wMWqLl26d3nrEV58MvI=
 		</data>
 		<key>CDockThumbnailItem.nib</key>
 		<data>
-		2QEz9fTfHQdJgz3C6zNCj6204+Y=
+		RwZDnj9LikfuZ4pbcDvpGiSMfuY=
 		</data>
 		<key>Data.momd/Data.mom</key>
 		<data>
@@ -106,7 +106,23 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		fc8ZPkuMscw9JUMpQd6DN4mUBK4=
+		8m1FK7QxooffTr6gh87Gi66ARoQ=
+		</data>
+		<key>Modules/CDockFramework.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
+		<data>
+		SXgTy3rOKRiD3BT22yNaXip6/t8=
+		</data>
+		<key>Modules/CDockFramework.swiftmodule/Project/arm64.swiftsourceinfo</key>
+		<data>
+		SXgTy3rOKRiD3BT22yNaXip6/t8=
+		</data>
+		<key>Modules/CDockFramework.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
+		<data>
+		IVogAVbOTFm7mO/76HBRqPv85cQ=
+		</data>
+		<key>Modules/CDockFramework.swiftmodule/Project/x86_64.swiftsourceinfo</key>
+		<data>
+		IVogAVbOTFm7mO/76HBRqPv85cQ=
 		</data>
 		<key>Modules/CDockFramework.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -118,7 +134,7 @@
 		</data>
 		<key>Modules/CDockFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		3qTWLEgqBQS+6p+3M0xIJbXeseQ=
+		ARNgEe/8Wc58WFU095YtvwwtY1E=
 		</data>
 		<key>Modules/CDockFramework.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -130,7 +146,7 @@
 		</data>
 		<key>Modules/CDockFramework.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		3qTWLEgqBQS+6p+3M0xIJbXeseQ=
+		ARNgEe/8Wc58WFU095YtvwwtY1E=
 		</data>
 		<key>Modules/CDockFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -142,7 +158,7 @@
 		</data>
 		<key>Modules/CDockFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		TBKANNZPfQQW7sftsFmBN9XrrFY=
+		oS4JIqVQW5QcFfBy8bM1T/a9mjI=
 		</data>
 		<key>Modules/CDockFramework.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -154,7 +170,7 @@
 		</data>
 		<key>Modules/CDockFramework.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		TBKANNZPfQQW7sftsFmBN9XrrFY=
+		oS4JIqVQW5QcFfBy8bM1T/a9mjI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -585,98 +601,98 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nH6n6UryiBVtdz6M6eA5RmTlo1LcL4n7sfnnSm/SvRE=
+			R1R5S+6LZV2hC14eb0eAtyWS1G+X1T6yBmjOkvDSveo=
 			</data>
 		</dict>
 		<key>CDockEndOfSwipe.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			g6lMMzwj1+6nPuoPh/HOxA4S1VnI0QpfkqmIJ0fw6d4=
+			kKeB/4DH/1vyzuECLxI1sddcz+aeTPlJ5eqJ2cJfZqc=
 			</data>
 		</dict>
 		<key>CDockEndOfSwipePhone.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			J1ESOFfonr0yoHNT++8ekqZndRSX5TcFGNqo1mNGpto=
+			1NAtGzOmXhp0aKgJS+4Pd+EgAdq6vM7Wgp4z1/hXJ38=
 			</data>
 		</dict>
 		<key>CDockImageCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lyG261W/VqhI//y3mHtgNnW4JbfgdYCCJOVYoyreED4=
+			mX+9GoAlz1zQKrkNXCaVpv+LMwW+bp+xu0y3Evq+DDo=
 			</data>
 		</dict>
 		<key>CDockMapLayer.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			P9O6LSMLgME+vTemLcfazrfYDf9ldLT4KKtAIRImkTA=
+			RrMScrEpjes+eQ5+ilqPO/tDLqoAAbd+WswcL5oYEpM=
 			</data>
 		</dict>
 		<key>CDockProjectImpress.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Vcd1+ytqovv62eaP1geBs5y8ZtSSVd4lNmikZwXS2Ys=
+			W6MNqqrwztvN2/uenC7Fl67ZEEaccizeu4hu7ZrACfo=
 			</data>
 		</dict>
 		<key>CDockProjectImpressPhone.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7yZrgyLOWMvf752Q3enPs3ueyGPnURHiF/dAZL/cWcU=
+			9q9Ge+YP5DXGP0MjV8ZB4dkQ8GR+l1XBn1Ri5XAsnak=
 			</data>
 		</dict>
 		<key>CDockProjectLayer.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			yZj0NCni5+yxiGGHDo8UqMuWnEtM7HYU0gcxL6JR490=
+			UfeVA1bcbFDWdMiua9rrDfU0vR0CYSMlKlAiQVnCuFg=
 			</data>
 		</dict>
 		<key>CDockSiteTree.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nY/kxm0rTDK7RseTkqj0kTJ380C3kLT/zcoRYsOScGw=
+			feA8bhH2F73mvh98/Y8utYdz6pl002IXXM3NMlLz8s0=
 			</data>
 		</dict>
 		<key>CDockSiteTreeItem.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0hUQYmqVaVBlNcPe/atUg6RbOnVH+4zof7NdDgaNVE0=
+			Ql2RnzBMVCsEjCG/AkldTZg0+Wfv8SHh9jfPIlVSkmw=
 			</data>
 		</dict>
 		<key>CDockTemplate.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4pBICnXv1brTETnTJNNChxuJtHrtkR453H9hsDzUnCQ=
+			3rElxqdAgOvi4yZqACLOq9XcHrm8Sa8wCS516NZ6Koc=
 			</data>
 		</dict>
 		<key>CDockTemplatesContainer.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eyGjOL+WU5/sP3IG8c6nePMFueosgh9vN3ZxPkCO9Lc=
+			Evkdkt6AA6eyUhZyUrNJUMIkuYD1lvK1Kx5gd2edN8o=
 			</data>
 		</dict>
 		<key>CDockThumbnail.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2ujqUNFyVIJGSz/+mLCEyvW06gtjHlkmM4OJXlavdDk=
+			g0snV8WBSzB9LtM4/AO7gUknQUxY8TmBuoaOqQEMIUo=
 			</data>
 		</dict>
 		<key>CDockThumbnailItem.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8yhhKTaL0Mq+lDUo8nQjHUc2atD7ACM8JH2W99Ll3XE=
+			JicUD9G0Ck0XHh8f75j88J+/ORmdV4y4ek/EF70KsZQ=
 			</data>
 		</dict>
 		<key>Data.momd/Data.mom</key>
@@ -756,6 +772,34 @@
 			UejFO4p1sxQR94k1D7BcpwWbwVcPEbkqeyKLCQhfeXk=
 			</data>
 		</dict>
+		<key>Modules/CDockFramework.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ONBE15Sh2RN/wq9IvG9zEWPZBGz2c+hNxrvdV5rJPRc=
+			</data>
+		</dict>
+		<key>Modules/CDockFramework.swiftmodule/Project/arm64.swiftsourceinfo</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ONBE15Sh2RN/wq9IvG9zEWPZBGz2c+hNxrvdV5rJPRc=
+			</data>
+		</dict>
+		<key>Modules/CDockFramework.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			WlV2Yvqp7uGomsBtA507ZO7zzLoNecxM1AX/Gkdmzl8=
+			</data>
+		</dict>
+		<key>Modules/CDockFramework.swiftmodule/Project/x86_64.swiftsourceinfo</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			WlV2Yvqp7uGomsBtA507ZO7zzLoNecxM1AX/Gkdmzl8=
+			</data>
+		</dict>
 		<key>Modules/CDockFramework.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
@@ -774,7 +818,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			GtJ6Q3ir4tQN6ONQ7ZEF1Rhmm93GUMytxxdRX+o4TxI=
+			gfuZeJKGA+7WN0+0D8dAOnKEzKEA9R6wik1iqhggBSc=
 			</data>
 		</dict>
 		<key>Modules/CDockFramework.swiftmodule/arm64.swiftdoc</key>
@@ -795,7 +839,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			GtJ6Q3ir4tQN6ONQ7ZEF1Rhmm93GUMytxxdRX+o4TxI=
+			gfuZeJKGA+7WN0+0D8dAOnKEzKEA9R6wik1iqhggBSc=
 			</data>
 		</dict>
 		<key>Modules/CDockFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -816,7 +860,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			356Xm3SU/usOA3ty0OkF0lsYib5EkiyTLUU/4UM3Rlc=
+			wwAV7bSlCR6LYEJJeyojo8Ca7a7zxn5sjqi8vCBXBDw=
 			</data>
 		</dict>
 		<key>Modules/CDockFramework.swiftmodule/x86_64.swiftdoc</key>
@@ -837,7 +881,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			356Xm3SU/usOA3ty0OkF0lsYib5EkiyTLUU/4UM3Rlc=
+			wwAV7bSlCR6LYEJJeyojo8Ca7a7zxn5sjqi8vCBXBDw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
