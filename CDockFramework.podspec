@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = 'CDockFramework'
-  s.version      = '1.0.4'
+  s.version      = '1.0.5'
   s.license       = { :type => 'MIT' }
   s.homepage      = 'https://github.com/edit/contentdock-sdk-ios-universal'
   s.authors       = { 'Michael Schild' => 'michael.schild@edit.de' }
@@ -9,5 +9,5 @@ Pod::Spec.new do |s|
   s.vendored_frameworks = 'CDockFramework.xcframework'
   s.documentation_url ='https://www.contentdock.com/en/documentation/sdk-ios'
   s.swift_version = '5.0'
-  s.ios.deployment_target  = '13.0'
+  s.ios.deployment_target  = '14.0'
 end
