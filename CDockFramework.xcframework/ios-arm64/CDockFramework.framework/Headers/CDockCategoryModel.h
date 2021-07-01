@@ -18,6 +18,7 @@
 @property (nonatomic) int sorting;
 @property (nonatomic) BOOL private;
 @property (nonatomic, strong) NSMutableArray<NSString *> *arrProjectSorting;
+@property (nonatomic, strong) NSArray<CDockCategoryModel *> *arrSubCategories;
 
 
 - (CDockCategoryModel *)initWithCDCategory:(CDCategory *)category;
