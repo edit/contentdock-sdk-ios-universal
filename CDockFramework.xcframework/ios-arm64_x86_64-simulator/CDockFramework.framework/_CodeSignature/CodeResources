@@ -10,55 +10,55 @@
 		</data>
 		<key>CDockEndOfSwipe.nib</key>
 		<data>
-		+2Vs7b6qEJC+YIwKVA1mvVjQt0E=
+		YqqKv4wI7mxl0/XMhSoh70soUHw=
 		</data>
 		<key>CDockEndOfSwipePhone.nib</key>
 		<data>
-		Qo4wtcp/NFNcFIJSd9rQDYYuoNE=
+		DTKb+kWhbByWw9KaObqFCSw6NzI=
 		</data>
 		<key>CDockImageCell.nib</key>
 		<data>
-		Udo6QM67Bwft0M75m27ZCkHqFoE=
+		aHr9sEduPC/AzeshanPS+8ly+us=
 		</data>
 		<key>CDockMapLayer.nib</key>
 		<data>
-		ZeQFEDKP6i9ol3WN4AiLQnNlRmA=
+		8QnqImZUjVDlA5l5+3bbl+2qqQk=
 		</data>
 		<key>CDockProjectImpress.nib</key>
 		<data>
-		EMwrJvZG38d6fdT00KTg03BsmJQ=
+		S//l8L+clYL5zRxv+s8+TW1UMWo=
 		</data>
 		<key>CDockProjectImpressPhone.nib</key>
 		<data>
-		peY29I7KY2KRVOWXPgIVsHP7nYc=
+		kEDalg4JULlJhST8DaCAzSe+czQ=
 		</data>
 		<key>CDockProjectLayer.nib</key>
 		<data>
-		MR9mITFWKyPGDR7G7I9MS0aqJY0=
+		yfE25TkLYaQfXUJXloLCu1+GSEY=
 		</data>
 		<key>CDockSiteTree.nib</key>
 		<data>
-		96P0elOzu381sNSM7pD4djrhxLs=
+		XnYJczj6AsVyc0zs04NA5oLy9kQ=
 		</data>
 		<key>CDockSiteTreeItem.nib</key>
 		<data>
-		8poRMjQ31VIqUhypkZu026/XKQ0=
+		XeBj142/URe1lEN7UbnKVmpFiL4=
 		</data>
 		<key>CDockTemplate.nib</key>
 		<data>
-		leWwMTSCfqu/yYzen0YDEaFQFMI=
+		2X39pHY4zD4UPhBgCHABE3xLvWI=
 		</data>
 		<key>CDockTemplatesContainer.nib</key>
 		<data>
-		6oeLKJ8/0/rFnIA+Jj0uIN2Y9Go=
+		+Er+MLhbLWPo7vXgZdmY2UhLPYM=
 		</data>
 		<key>CDockThumbnail.nib</key>
 		<data>
-		eJZGcMbMTNeZFJjSKn+X9u66ns0=
+		ZtPbRnN4w6Q2YO9g7a11NobQ2pY=
 		</data>
 		<key>CDockThumbnailItem.nib</key>
 		<data>
-		lqh8lo6e4cneO8+8fTwyBHbbPe4=
+		hsIwBuqYOtFv9aJdYPWOTefW4tY=
 		</data>
 		<key>Data.momd/Data.mom</key>
 		<data>
@@ -98,7 +98,7 @@
 		</data>
 		<key>Headers/CDockSDK.h</key>
 		<data>
-		liVEwORxu9s+rAV8igoXc1xfJP0=
+		6D1HUZ4XwlJ4PP5N1yJaoDXEKoM=
 		</data>
 		<key>Headers/CDockUIImageView.h</key>
 		<data>
@@ -608,91 +608,91 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			eXAobImYoQDzfo7qBn7zrlUqlWCRsEFBGX3q6yxbRKw=
+			WHTzCa7S6WRnEAujlAGlkue/e4ybq0kYy5CcYaaTRmc=
 			</data>
 		</dict>
 		<key>CDockEndOfSwipePhone.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nOMnaLr2xHcy3IUy25xcz1ef2TAOckABIlSNvdBJ3EE=
+			JGSI0xenTxbrtd7y/2bwIQwrA+GQp9GKr22HsHKyGTI=
 			</data>
 		</dict>
 		<key>CDockImageCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3mKuQ148HmGtalNDlZyHs4VfYY87jvcrAXRt5vNN4ZI=
+			/+8SZIOBwcz6FqOk5o12DTSVpGzM1OAVMk2D2lc06Hc=
 			</data>
 		</dict>
 		<key>CDockMapLayer.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			I6r8CLGXPI8tXlevs7H3iX3wYj0r1xyT00ET1kbkIUA=
+			9wPDMVZ3Tn5b/DtIt7d1mzaPpMo/RiP45vzi5N39px4=
 			</data>
 		</dict>
 		<key>CDockProjectImpress.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RPBCl1Xq27BoLhShuEukFSwktCohkuo5RFp2OLXkq+c=
+			w/gP6uwaulz3fj5MG2hHmeEvrw6BbVCnzAsIi24e9eg=
 			</data>
 		</dict>
 		<key>CDockProjectImpressPhone.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			o1TjKvwW/zLsO/gvWsb0e2L+EKSQpJTcOm99wnOXFhU=
+			DN2LvFnhSRGVE++Sz9AD5P8WKaBwcA1kL4ourKP+odQ=
 			</data>
 		</dict>
 		<key>CDockProjectLayer.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RoYhfS854EkPTPjGI72dMcXUPwICmXKy5LSaIlmcHbw=
+			/CixAQJaMqzE/P0kl/HoWjjLm+PtybTwtvyDJdfPVzI=
 			</data>
 		</dict>
 		<key>CDockSiteTree.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iHeTKzKd/1lyHMHVNuyRCKCankbcp5OlGdtTVhDyPAQ=
+			NFbUFsppsLSCfJMshJFy8D8HjH6Y3iV0ktcPi9g5WgU=
 			</data>
 		</dict>
 		<key>CDockSiteTreeItem.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			oL4dTH0CCZaq3YS8P/VSvCHz4S91SG1yNBdW09FN+Jg=
+			84rX2QjPQ1aelG/WIZQtrAFzL4+lMJrrrka481fK6T8=
 			</data>
 		</dict>
 		<key>CDockTemplate.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mbPMhDNkrDfLJd6sDy1+P2tIqiegoDxSnwgmdJOxr00=
+			CfUJ5z8qxBE77peiSbrW0G8GinZGhEz9MbSpx/5GokI=
 			</data>
 		</dict>
 		<key>CDockTemplatesContainer.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0ObGphBQsiGDTz/y5A7VIx2KlO7aNPKa3popplKhBbM=
+			PkqDl5SkJzaqEGJwQHe6vt8uxcsHTiU/ws+S83x1pgQ=
 			</data>
 		</dict>
 		<key>CDockThumbnail.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			p5j/P7iyb+HiIyQId9ECVQZi8scey9St23LABbJk1cE=
+			15nvDx0+skHDF/XWwh6QvLtVxA5tFjajK32jNN9aQlc=
 			</data>
 		</dict>
 		<key>CDockThumbnailItem.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ah/9agaspbUlzUMaoPpfKnd41MrEOe/2hYLIL4IXPlM=
+			GKlIY3HTVeRFrC2RES3wZDn47wssFR94tR3NJlFCKlg=
 			</data>
 		</dict>
 		<key>Data.momd/Data.mom</key>
@@ -762,7 +762,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			n757nKjXjkkY0WOXcYvKI1Eg04b8XkxH7grs6xOBVbg=
+			sKvYQTdqBjRfdOhad9ApmwvN3fBBr3aEIqo0tzY4Q6c=
 			</data>
 		</dict>
 		<key>Headers/CDockUIImageView.h</key>

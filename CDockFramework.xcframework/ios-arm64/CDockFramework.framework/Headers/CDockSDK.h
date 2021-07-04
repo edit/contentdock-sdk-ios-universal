@@ -31,8 +31,10 @@ typedef enum {
 @interface CDockSDK : NSObject
 
 #pragma mark - Init
-/// Init the contentDock SDK with your rootViewController. The best case to set this functioin is in viewDidAppear of your rootViewController.
-+ (void)initFramework:(UIViewController *)vc;
+/// Init the contentDock SDK
++ (void)initFramework;
+/// Register the general project presentation vc
++ (void)registerGeneralProjectVc:(UIViewController *)vc;
 
 #pragma mark - Validation
 /// The contentDock SDK Key authoriztion. For the SDK multi mode activate the SDK in your Account Settings. For Single mode in the Project Settings. The Key must be set in the CDockSettings.plist.

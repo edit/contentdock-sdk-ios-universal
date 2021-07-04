@@ -6016,9 +6016,11 @@ __OBJC_$_PROP_LIST_FD_MegaCellItem
 __OBJC_CLASS_RO_$_FD_MegaCellItem
 +[CDockSDK sharedInstance]
 ___26+[CDockSDK sharedInstance]_block_invoke
-+[CDockSDK initFramework:]
++[CDockSDK initFramework]
++[CDockSDK registerProjectVc:]
+-[CDockSDK initMessages]
 -[CDockSDK setCustomVC:]
--[CDockSDK performCDockFunctionsSelector:]
+-[CDockSDK performCDockBridgeSelector:]
 -[CDockSDK onDetailsOpenTapped:]
 -[CDockSDK onLocalPorjectsOpenTapped:]
 -[CDockSDK onNoConnection:]
@@ -6097,7 +6099,7 @@ ___28+[CDockSDK arrLocalProjects]_block_invoke
 +[CDockSDK getDataContainerList]
 +[CDockSDK getDataContainerRecordsForElementByPageId:elementId:orderBy:orderDirection:]
 ___87+[CDockSDK getDataContainerRecordsForElementByPageId:elementId:orderBy:orderDirection:]_block_invoke
-___87+[CDockSDK getDataContainerRecordsForElementByPageId:elementId:orderBy:orderDirection:]_block_invoke.447
+___87+[CDockSDK getDataContainerRecordsForElementByPageId:elementId:orderBy:orderDirection:]_block_invoke.449
 +[CDockSDK getDataContainerFieldsForContainerId:]
 +[CDockSDK getDataContainerRecordsByContainerId:orderBy:orderDirection:]
 ___72+[CDockSDK getDataContainerRecordsByContainerId:orderBy:orderDirection:]_block_invoke
@@ -6125,30 +6127,32 @@ __blockCallbacks
 __arrParams
 __path
 __host
-_OBJC_CLASSLIST_REFERENCES_$_.227
+_OBJC_CLASSLIST_REFERENCES_$_.218
+_OBJC_CLASSLIST_REFERENCES_$_.229
 ___block_descriptor_64_e8_32s40s48s56bs_e8_v12?0B8l
 ___block_descriptor_48_e8_32bs_e8_v12?0B8l
 ___block_descriptor_64_e8_32s40s48bs_e8_v12?0B8l
-_OBJC_CLASSLIST_REFERENCES_$_.293
+_OBJC_CLASSLIST_REFERENCES_$_.295
 ___block_descriptor_40_e8_32bs_e34_v24?0"NSDictionary"8"NSError"16l
-___block_literal_global.308
-_OBJC_CLASSLIST_REFERENCES_$_.309
-_OBJC_CLASSLIST_REFERENCES_$_.314
-_OBJC_CLASSLIST_REFERENCES_$_.323
+___block_literal_global.310
+_OBJC_CLASSLIST_REFERENCES_$_.316
 ___block_descriptor_40_e8_32bs_e5_v8?0l
-_OBJC_CLASSLIST_REFERENCES_$_.366
+_OBJC_CLASSLIST_REFERENCES_$_.352
+_OBJC_CLASSLIST_REFERENCES_$_.359
+_OBJC_CLASSLIST_REFERENCES_$_.368
 ___block_descriptor_32_e17_16?0"Project"8l
-___block_literal_global.406
-_OBJC_CLASSLIST_REFERENCES_$_.418
-_OBJC_CLASSLIST_REFERENCES_$_.429
-_OBJC_SELECTOR_REFERENCES_.437
-_OBJC_SELECTOR_REFERENCES_.441
+___block_literal_global.408
+_OBJC_CLASSLIST_REFERENCES_$_.419
+_OBJC_CLASSLIST_REFERENCES_$_.420
+_OBJC_CLASSLIST_REFERENCES_$_.431
+_OBJC_SELECTOR_REFERENCES_.435
+_OBJC_SELECTOR_REFERENCES_.439
 ___block_descriptor_48_e8_32s40s_e45_q24?0"CDContainerItem"8"CDContainerItem"16l
 ___block_descriptor_32_e25_16?0"CDContainerItem"8l
-___block_literal_global.449
+___block_literal_global.451
 _OBJC_SELECTOR_REFERENCES_.455
-_OBJC_CLASSLIST_REFERENCES_$_.457
-_OBJC_SELECTOR_REFERENCES_.459
+_OBJC_SELECTOR_REFERENCES_.457
+___block_literal_global.458
 __OBJC_$_CLASS_METHODS_CDockSDK
 __OBJC_METACLASS_RO_$_CDockSDK
 __OBJC_$_INSTANCE_METHODS_CDockSDK
@@ -7199,12 +7203,12 @@ __OBJC_CLASS_RO_$_FD_PagedTableWithCoreDataPage
 -[FD_StylesModel arrDictFallbackStyles]
 -[FD_StylesModel setArrDictFallbackStyles:]
 -[FD_StylesModel .cxx_destruct]
-_OBJC_SELECTOR_REFERENCES_.435
-_OBJC_SELECTOR_REFERENCES_.439
+_OBJC_SELECTOR_REFERENCES_.437
+_OBJC_SELECTOR_REFERENCES_.441
 _OBJC_SELECTOR_REFERENCES_.447
 _OBJC_SELECTOR_REFERENCES_.449
 _OBJC_SELECTOR_REFERENCES_.451
-_OBJC_SELECTOR_REFERENCES_.457
+_OBJC_SELECTOR_REFERENCES_.459
 _OBJC_SELECTOR_REFERENCES_.493
 _OBJC_SELECTOR_REFERENCES_.495
 _OBJC_SELECTOR_REFERENCES_.497
@@ -8052,6 +8056,7 @@ __OBJC_CLASS_RO_$_CDWebviewElement
 -[KPSlideshow .cxx_destruct]
 _OBJC_CLASSLIST_REFERENCES_$_.231
 _OBJC_CLASSLIST_REFERENCES_$_.244
+_OBJC_CLASSLIST_REFERENCES_$_.314
 _OBJC_CLASSLIST_REFERENCES_$_.345
 _OBJC_CLASSLIST_REFERENCES_$_.356
 _OBJC_IVAR_$_KPSlideshow._arrImages
@@ -9723,6 +9728,7 @@ _OBJC_IVAR_$_MBProgressHUD.indicator
 _OBJC_IVAR_$_MBProgressHUD.mode
 _OBJC_IVAR_$_MBProgressHUD.customView
 _OBJC_IVAR_$_MBProgressHUD.margin
+_OBJC_CLASSLIST_REFERENCES_$_.227
 _OBJC_IVAR_$_MBProgressHUD.yOffset
 _OBJC_IVAR_$_MBProgressHUD.xOffset
 _OBJC_IVAR_$_MBProgressHUD.square
@@ -10498,7 +10504,6 @@ ___block_descriptor_40_e8_32r_e15_v32?0816^B24l
 ___block_descriptor_48_e8_32s40r_e15_v32?0816^B24l
 ___block_descriptor_40_e8_32r_e15_v32?08Q16^B24l
 _OBJC_CLASSLIST_REFERENCES_$_.412
-_OBJC_CLASSLIST_REFERENCES_$_.419
 ___block_descriptor_56_e8_32s40s48s_e15_v32?0816^B24l
 _OBJC_CLASSLIST_REFERENCES_$_.433
 ___block_descriptor_56_e8_32s40s48s_e15_v32?08Q16^B24l
@@ -13927,7 +13932,6 @@ __OBJC_$_PROP_LIST_AWSCognitoIdentityGetIdentityPoolRolesInput
 __OBJC_CLASS_RO_$_AWSCognitoIdentityGetIdentityPoolRolesInput
 ___block_descriptor_32_e8_16?08l
 ___block_literal_global.294
-_OBJC_CLASSLIST_REFERENCES_$_.295
 _OBJC_IVAR_$_AWSCognitoIdentityGetIdentityPoolRolesResponse._identityPoolId
 _OBJC_IVAR_$_AWSCognitoIdentityGetIdentityPoolRolesResponse._roleMappings
 _OBJC_IVAR_$_AWSCognitoIdentityGetIdentityPoolRolesResponse._roles
@@ -14378,6 +14382,7 @@ ___block_descriptor_40_e8_32bs_e17_16?0"AWSTask"8l
 _OBJC_CLASSLIST_REFERENCES_$_.249
 _OBJC_CLASSLIST_REFERENCES_$_.269
 _OBJC_CLASSLIST_REFERENCES_$_.274
+_OBJC_CLASSLIST_REFERENCES_$_.293
 _OBJC_CLASSLIST_REFERENCES_$_.298
 __OBJC_$_CLASS_METHODS_AWSCognitoIdentity
 __OBJC_METACLASS_RO_$_AWSCognitoIdentity
@@ -14563,7 +14568,6 @@ _OBJC_IVAR_$_AWSWebIdentityCredentialsProvider._keychain
 __OBJC_$_INSTANCE_VARIABLES_AWSWebIdentityCredentialsProvider
 __OBJC_$_PROP_LIST_AWSWebIdentityCredentialsProvider
 __OBJC_CLASS_RO_$_AWSWebIdentityCredentialsProvider
-_OBJC_CLASSLIST_REFERENCES_$_.229
 _OBJC_CLASSLIST_REFERENCES_$_.257
 ___block_descriptor_48_e8_32s40s_e17_16?0"AWSTask"8l
 _OBJC_CLASSLIST_REFERENCES_$_.286
@@ -16509,7 +16513,6 @@ _OBJC_CLASSLIST_REFERENCES_$_.379
 __OBJC_$_CLASS_METHODS_AWSQueryParamBuilder
 __OBJC_METACLASS_RO_$_AWSQueryParamBuilder
 __OBJC_CLASS_RO_$_AWSQueryParamBuilder
-_OBJC_CLASSLIST_REFERENCES_$_.420
 _OBJC_CLASSLIST_REFERENCES_$_.423
 __OBJC_$_CLASS_METHODS_AWSEC2ParamBuilder
 __OBJC_METACLASS_RO_$_AWSEC2ParamBuilder
@@ -21877,6 +21880,7 @@ __OBJC_$_INSTANCE_METHODS_AWSS3Bucket
 __OBJC_$_INSTANCE_VARIABLES_AWSS3Bucket
 __OBJC_$_PROP_LIST_AWSS3Bucket
 __OBJC_CLASS_RO_$_AWSS3Bucket
+_OBJC_CLASSLIST_REFERENCES_$_.309
 _OBJC_IVAR_$_AWSS3BucketLifecycleConfiguration._rules
 __OBJC_$_CLASS_METHODS_AWSS3BucketLifecycleConfiguration
 __OBJC_METACLASS_RO_$_AWSS3BucketLifecycleConfiguration
@@ -25741,7 +25745,6 @@ _OBJC_CLASSLIST_REFERENCES_$_.317
 _OBJC_CLASSLIST_REFERENCES_$_.327
 _OBJC_CLASSLIST_REFERENCES_$_.341
 _OBJC_CLASSLIST_REFERENCES_$_.363
-_OBJC_CLASSLIST_REFERENCES_$_.368
 _OBJC_CLASSLIST_REFERENCES_$_.380
 _OBJC_CLASSLIST_REFERENCES_$_.387
 _OBJC_CLASSLIST_REFERENCES_$_.392
@@ -26599,7 +26602,6 @@ _in_cksum
 -[GBPing pingPacketWithType:payload:requiresChecksum:].cold.1
 ___block_descriptor_44_e8_32bs_e5_v8?0l
 ___block_descriptor_52_e8_32s40s_e5_v8?0l
-_OBJC_CLASSLIST_REFERENCES_$_.218
 __OBJC_$_CLASS_METHODS_GBPing
 __OBJC_METACLASS_RO_$_GBPing
 __OBJC_$_INSTANCE_METHODS_GBPing
