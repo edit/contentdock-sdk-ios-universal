@@ -6017,7 +6017,7 @@ __OBJC_CLASS_RO_$_FD_MegaCellItem
 +[CDockSDK sharedInstance]
 ___26+[CDockSDK sharedInstance]_block_invoke
 +[CDockSDK initFramework]
-+[CDockSDK registerProjectVc:]
++[CDockSDK registerGeneralProjectVc:]
 -[CDockSDK initMessages]
 -[CDockSDK setCustomVC:]
 -[CDockSDK performCDockBridgeSelector:]
