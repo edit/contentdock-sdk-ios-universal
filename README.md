@@ -9,7 +9,7 @@ In addition, the contentDock SDK provides all the functions that you need to cre
 * [contentDock for developer](https://www.contentdock.com/en/for-developer)
 
 
-## The top five of the contentdock services 
+## The top five of the contentDock service 
 1. easy creation of native content InApps (private or public) that can be individually extended with this SDK.
 2. powerful CMS to manage all InApps, content and users
 3. powerful contentDock Wireframer App for the creation of your InApps
