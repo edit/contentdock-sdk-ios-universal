@@ -16,9 +16,10 @@ In addition, the contentDock SDK provides all the functions that you need to cre
 4. powerful contentDock Viewer App for testing your InApps and customising styles
 5. creation of app data containers so you can store your app data in the cloud
 
-* [contentDock Wirerframer App in the Apple App Store](https://apps.apple.com/us/app/contentdock-wireframer/id971198068?l=en&ls=1)
+* [contentDock Wireframer App in the Apple App Store](https://apps.apple.com/us/app/contentdock-wireframer/id971198068?l=en&ls=1)
 * [contentDock Viewer App in the Apple App Store](https://apps.apple.com/us/app/contentdock-viewer/id971153474?l=en&ls=1)
 * [contentDock Viewer App in the Google Play Store](https://play.google.com/store/apps/details?id=net.edit.contentdock)
+* [contentDock App Management System](https://www.contentdock.com/en/app-management)
 
 
 ## Documentation
