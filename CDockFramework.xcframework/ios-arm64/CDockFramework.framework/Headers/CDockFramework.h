@@ -3,7 +3,7 @@
 //  contentDock SDK iOS
 //
 //  Created by Michael Schild
-//  Copyright (c) 2019 EDIT GmbH. All rights reserved.
+//  Copyright (c) 2016-2021 EDIT GmbH. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
@@ -16,10 +16,11 @@ FOUNDATION_EXPORT const unsigned char TEVFrameworkVersionString[];
 
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
+#import <CDockFramework/CDockType.h>
 #import <CDockFramework/CDockSDK.h>
 #import <CDockFramework/CDockCustomElement.h>
-#import <CDockFramework/CDockProjectModel.h>
-#import <CDockFramework/CDockCategoryModel.h>
+#import <CDockFramework/CDockProject.h>
+#import <CDockFramework/CDockCategory.h>
 #import <CDockFramework/CDockDataContainer.h>
 #import <CDockFramework/CDockDataContainerRecord.h>
 #import <CDockFramework/CDockUIImageView.h>

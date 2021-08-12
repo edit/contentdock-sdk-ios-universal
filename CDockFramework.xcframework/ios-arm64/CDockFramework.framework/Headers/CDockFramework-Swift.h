@@ -233,14 +233,21 @@ SWIFT_CLASS("_TtC14CDockFramework34CDRubberPageIndicatorControlConfig")
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
 @end
 
-@class UIImage;
 
-SWIFT_CLASS("_TtC14CDockFramework15CDockPageObject")
-@interface CDockPageObject : NSObject
-@property (nonatomic, copy) NSString * _Nullable pageId;
-@property (nonatomic, copy) NSString * _Nullable pageName;
-@property (nonatomic, strong) UIImage * _Nullable pageImage;
-@property (nonatomic) BOOL isActive;
+SWIFT_CLASS("_TtC14CDockFramework9CDockPage")
+@interface CDockPage : NSObject
+- (void)setPageIdWithValue:(NSString * _Nonnull)value sender:(NSString * _Nonnull)sender;
+- (NSString * _Nonnull)getPageId SWIFT_WARN_UNUSED_RESULT;
+- (void)setPageNameWithValue:(NSString * _Nonnull)value sender:(NSString * _Nonnull)sender;
+- (NSString * _Nonnull)getPageName SWIFT_WARN_UNUSED_RESULT;
+- (void)setPageIsActiveWithValue:(BOOL)value sender:(NSString * _Nonnull)sender;
+- (BOOL)isActive SWIFT_WARN_UNUSED_RESULT;
+- (CDockPage * _Nullable)getPageSwipeLeft SWIFT_WARN_UNUSED_RESULT;
+- (CDockPage * _Nullable)getPageSwipeRight SWIFT_WARN_UNUSED_RESULT;
+- (CDockPage * _Nullable)getPageSwipeUp SWIFT_WARN_UNUSED_RESULT;
+- (CDockPage * _Nullable)getPageSwipeDown SWIFT_WARN_UNUSED_RESULT;
+- (NSArray<CDockPage *> * _Nonnull)getSubPages SWIFT_WARN_UNUSED_RESULT;
+- (void)showMe;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
@@ -251,13 +258,6 @@ SWIFT_CLASS("_TtC14CDockFramework15CDockPageObject")
 - (NSString * _Nonnull)hexStringToRGBA SWIFT_WARN_UNUSED_RESULT;
 @end
 
-
-
-
-
-@interface UIViewController (SWIFT_EXTENSION(CDockFramework))
-+ (nonnull instancetype)initWith:(NSString * _Nonnull)sbName vcId:(NSString * _Nonnull)vcId SWIFT_METHOD_FAMILY(none) SWIFT_WARN_UNUSED_RESULT;
-@end
 
 #if __has_attribute(external_source_symbol)
 # pragma clang attribute pop

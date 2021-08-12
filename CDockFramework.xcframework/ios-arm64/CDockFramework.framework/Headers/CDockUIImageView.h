@@ -1,9 +1,9 @@
 //
-//  CDockLoadImage.h
-//  TEVDesigned
+//  CDockUIImageView.h
+//  contentDock SDK iOS
 //
-//  Created by Michael Schild on 03.05.21.
-//  Copyright © 2021 EDIT GmbH. All rights reserved.
+//  Created by Michael Schild
+//  Copyright (c) 2016-2021 EDIT GmbH. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

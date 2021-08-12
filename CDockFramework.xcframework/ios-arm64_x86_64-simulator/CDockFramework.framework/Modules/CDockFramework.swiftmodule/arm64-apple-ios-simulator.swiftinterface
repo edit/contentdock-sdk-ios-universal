@@ -5,9 +5,6 @@
 import Foundation
 import Swift
 import UIKit
-extension UIViewController {
-  @objc public static func initWith(_ sbName: Swift.String = "MainStoryboard", vcId: Swift.String) -> Self
-}
 @objc extension UIColor {
   @objc convenience dynamic public init?(hex: Swift.String)
   @objc dynamic public func hexStringToARGB() -> Swift.String
@@ -51,27 +48,19 @@ extension UIViewController {
   @objc deinit
   @objc override dynamic public init(frame: CoreGraphics.CGRect)
 }
-@_inheritsConvenienceInitializers @objc public class CDockPageObject : ObjectiveC.NSObject {
-  @objc public var pageId: Swift.String?
-  @objc public var pageName: Swift.String?
-  @objc public var pageImage: UIKit.UIImage?
-  @objc public var isActive: Swift.Bool
-  public func showMe()
-  public var pageSwipeLeft: CDockFramework.CDockPageObject? {
-    get
-  }
-  public var pageSwipeRight: CDockFramework.CDockPageObject? {
-    get
-  }
-  public var pageSwipeUp: CDockFramework.CDockPageObject? {
-    get
-  }
-  public var pageSwipeDown: CDockFramework.CDockPageObject? {
-    get
-  }
-  public var childrenPages: [CDockFramework.CDockPageObject] {
-    get
-  }
+@_inheritsConvenienceInitializers @objc public class CDockPage : ObjectiveC.NSObject {
+  @objc public func setPageId(value: Swift.String, sender: Swift.String)
+  @objc public func getPageId() -> Swift.String
+  @objc public func setPageName(value: Swift.String, sender: Swift.String)
+  @objc public func getPageName() -> Swift.String
+  @objc public func setPageIsActive(value: Swift.Bool, sender: Swift.String)
+  @objc public func isActive() -> Swift.Bool
+  @objc public func getPageSwipeLeft() -> CDockFramework.CDockPage?
+  @objc public func getPageSwipeRight() -> CDockFramework.CDockPage?
+  @objc public func getPageSwipeUp() -> CDockFramework.CDockPage?
+  @objc public func getPageSwipeDown() -> CDockFramework.CDockPage?
+  @objc public func getSubPages() -> [CDockFramework.CDockPage]
+  @objc public func showMe()
   @objc deinit
   @objc override dynamic public init()
 }

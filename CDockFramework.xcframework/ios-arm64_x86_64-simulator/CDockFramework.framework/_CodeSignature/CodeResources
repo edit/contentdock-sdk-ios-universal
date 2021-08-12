@@ -10,55 +10,55 @@
 		</data>
 		<key>CDockEndOfSwipe.nib</key>
 		<data>
-		VHFIDL+1nojVt5Q6LJ/aNOIBZIA=
+		j8CzRtWFaTMK0Q9KG/UyaDCMboA=
 		</data>
 		<key>CDockEndOfSwipePhone.nib</key>
 		<data>
-		sX2sTYUqKgQZvvpUtpzd3nyswOU=
+		FFZuTHbhO1Y2jFuWT47U4Ak5fuw=
 		</data>
 		<key>CDockImageCell.nib</key>
 		<data>
-		kBdGHzlEfRxpJMDt7bYkuhs6ZBg=
+		UIX1FsRWHz1MrB+QTb8jLLGUFJ0=
 		</data>
 		<key>CDockMapLayer.nib</key>
 		<data>
-		YLF8FPQoiOxlMJFnlSWdqgT6qMQ=
+		Zi4bQFI62ePj8vIoRSPTdwNF9Xg=
 		</data>
 		<key>CDockProjectImpress.nib</key>
 		<data>
-		l40mUrfW5FfcQTAc90S+cX9IfTs=
+		JAzko70yP1mCIccspAoj+XnFXgk=
 		</data>
 		<key>CDockProjectImpressPhone.nib</key>
 		<data>
-		BhwOK9HOyNHx5j0BEvSCd7SLJMs=
+		PM7ZQZZjzDs2ZBu4Av2/BGCoydw=
 		</data>
 		<key>CDockProjectLayer.nib</key>
 		<data>
-		BxBGQVoMXKPhHyQ4ShjkD/PU9Yc=
+		q4uGb6i1j04F+bS9EBro0ICqx98=
 		</data>
 		<key>CDockSiteTree.nib</key>
 		<data>
-		4h555VTb/8CVYIFu/E7pakhQ888=
+		RyPxc2l6xRjKL7uWWvZqcykdtdg=
 		</data>
 		<key>CDockSiteTreeItem.nib</key>
 		<data>
-		ZWHe1iVaxUtL2OJSo8YgEnQO9FE=
+		gXMKf6613P/PAhJx1clsaMIlPUw=
 		</data>
 		<key>CDockTemplate.nib</key>
 		<data>
-		HE0+Gav8WcGtE5f/dEOZMyESrxY=
+		BTpHrSP5sPHt9qztUUlgi/KQq20=
 		</data>
 		<key>CDockTemplatesContainer.nib</key>
 		<data>
-		bUM8DXHCK5RG/qNXKXv2frofah4=
+		1ILzlDLe/Nlaky2gPNh1KikW/Mk=
 		</data>
 		<key>CDockThumbnail.nib</key>
 		<data>
-		P3lBH+iDZWZhn5Aqk8XL2/Qvnwo=
+		cF+Y3VS/bLxwxI/CmtRooo9lZ2Y=
 		</data>
 		<key>CDockThumbnailItem.nib</key>
 		<data>
-		5Ot95lm80bmSm+uB2GpK5+zzZio=
+		QBGhgsbpXQzErz+Uzmm2be1WMcI=
 		</data>
 		<key>Data.momd/Data.mom</key>
 		<data>
@@ -68,61 +68,65 @@
 		<data>
 		KPt+fqDc0jq57I3ti4bzguwm6Tw=
 		</data>
-		<key>Headers/CDockCategoryModel.h</key>
+		<key>Headers/CDockCategory.h</key>
 		<data>
-		rlGExrrY21cZWuhTBLrzDA4x7EI=
+		OX82th1thfROSxg3pgyK+2F4cp8=
 		</data>
 		<key>Headers/CDockCustomElement.h</key>
 		<data>
-		02elb7AUd7VWoIg1xRVVafVtEuQ=
+		ZNGGmYMLt+B1gZkWJzaYiLZ02Nk=
 		</data>
 		<key>Headers/CDockDataContainer.h</key>
 		<data>
-		jtN2dfAseKpq1wFgthm710CluuE=
+		iH5JDEVxxnfNcHjVIneewmh+M5o=
 		</data>
 		<key>Headers/CDockDataContainerRecord.h</key>
 		<data>
-		IVxpTaiEffmT56j2WleuemfndA8=
+		SqwO65gYDA/mNjEerRFo5V+9CQs=
 		</data>
 		<key>Headers/CDockFramework-Swift.h</key>
 		<data>
-		RH3DYF61DX1BIKfLrza3LWM9J6w=
+		/TXD4zFhXoG3Kzvpo/HCMVzARco=
 		</data>
 		<key>Headers/CDockFramework.h</key>
 		<data>
-		0po+uqA601baEvTJTzVh17yVM4o=
+		7IIZT7QzyitG7GiFjzCZwgtZcUM=
 		</data>
-		<key>Headers/CDockProjectModel.h</key>
+		<key>Headers/CDockProject.h</key>
 		<data>
-		rzdCPLNYzKJlniQsX8EvKrZGSZk=
+		HSIWn2cXdkZBvU26QSdqa2btpkg=
 		</data>
 		<key>Headers/CDockSDK.h</key>
 		<data>
-		6D1HUZ4XwlJ4PP5N1yJaoDXEKoM=
+		/KaTahAaVUloIwXM0zIimm2nX4Y=
+		</data>
+		<key>Headers/CDockType.h</key>
+		<data>
+		HTF0Qduod4roum/K3Knv/K6HlTA=
 		</data>
 		<key>Headers/CDockUIImageView.h</key>
 		<data>
-		6yyyY9A4lYQFDgIVF4xQVJH5MUU=
+		ps7QrhXzdQmMrv2Ro1p62LoVx6Y=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		8m1FK7QxooffTr6gh87Gi66ARoQ=
+		rro3zAucaiYF4aa+pGtHOUdTaqc=
 		</data>
 		<key>Modules/CDockFramework.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		SXgTy3rOKRiD3BT22yNaXip6/t8=
+		2/ouckq9aH1ZSuPm4DFxqUnl8m0=
 		</data>
 		<key>Modules/CDockFramework.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<data>
-		SXgTy3rOKRiD3BT22yNaXip6/t8=
+		2/ouckq9aH1ZSuPm4DFxqUnl8m0=
 		</data>
 		<key>Modules/CDockFramework.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		IVogAVbOTFm7mO/76HBRqPv85cQ=
+		nao5eh3JcAjdcdojLODdrRvKX98=
 		</data>
 		<key>Modules/CDockFramework.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<data>
-		IVogAVbOTFm7mO/76HBRqPv85cQ=
+		nao5eh3JcAjdcdojLODdrRvKX98=
 		</data>
 		<key>Modules/CDockFramework.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -130,11 +134,11 @@
 		</data>
 		<key>Modules/CDockFramework.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		1dIGQUuh6MQz1iyCq/0vO3cM3iA=
+		rxuNN6tXjq/a7jcS0XjCdLu8hN0=
 		</data>
 		<key>Modules/CDockFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		ARNgEe/8Wc58WFU095YtvwwtY1E=
+		06MlFmSpfAKw6vlZ053qMJSJk/A=
 		</data>
 		<key>Modules/CDockFramework.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -142,11 +146,11 @@
 		</data>
 		<key>Modules/CDockFramework.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		1dIGQUuh6MQz1iyCq/0vO3cM3iA=
+		rxuNN6tXjq/a7jcS0XjCdLu8hN0=
 		</data>
 		<key>Modules/CDockFramework.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		ARNgEe/8Wc58WFU095YtvwwtY1E=
+		06MlFmSpfAKw6vlZ053qMJSJk/A=
 		</data>
 		<key>Modules/CDockFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -154,11 +158,11 @@
 		</data>
 		<key>Modules/CDockFramework.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		tWxH0ltduqybis9e63acxbeQNJA=
+		LdLKOrJjfNASAjpjcOIQySLzDyM=
 		</data>
 		<key>Modules/CDockFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		oS4JIqVQW5QcFfBy8bM1T/a9mjI=
+		6FvrhpO0hkcRmFAmHaIWU0/vEvY=
 		</data>
 		<key>Modules/CDockFramework.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -166,11 +170,11 @@
 		</data>
 		<key>Modules/CDockFramework.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		tWxH0ltduqybis9e63acxbeQNJA=
+		LdLKOrJjfNASAjpjcOIQySLzDyM=
 		</data>
 		<key>Modules/CDockFramework.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		oS4JIqVQW5QcFfBy8bM1T/a9mjI=
+		6FvrhpO0hkcRmFAmHaIWU0/vEvY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -231,14 +235,6 @@
 		<key>Reader-Thumbs@2x.png</key>
 		<data>
 		YaEh2EuhEX0oizSKM9OoP0EIfVc=
-		</data>
-		<key>SingleProjectSyncProgressBar@2x.png</key>
-		<data>
-		1TBeEOdEXP6UBR27skpktd4PUSs=
-		</data>
-		<key>SingleProjectSyncProgressTube@2x.png</key>
-		<data>
-		Hsxyq1bzzq6VB9AwW9CaPA730PU=
 		</data>
 		<key>btnDrawerCleanAll@2x.png</key>
 		<data>
@@ -522,22 +518,6 @@
 		<data>
 		96o0qDYkRymn/hIuzO4P2hYleXg=
 		</data>
-		<key>projectDetailProgressViewProgressBar.png</key>
-		<data>
-		7mlOM7VeP0edYW9A7prAo46khu8=
-		</data>
-		<key>projectDetailProgressViewProgressBar@2x.png</key>
-		<data>
-		Sy/ITJaydQZ6il2Yk3lpNZLZidU=
-		</data>
-		<key>projectDetailProgressViewProgressBarBack.png</key>
-		<data>
-		LCE0nLC5g9+HPdvqI56OFo/agGk=
-		</data>
-		<key>projectDetailProgressViewProgressBarBack@2x.png</key>
-		<data>
-		YdZLLm8omcvj6v4kyA6/ufzzXV4=
-		</data>
 		<key>subtreeExpand.png</key>
 		<data>
 		5/Rir6H2QnY2knP7nx0yH5KEseQ=
@@ -608,91 +588,91 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			s2cQh7+sTNLqeObjLJ9MZ8mOQDNEn+o2hj7l1XQBeVI=
+			rVBlEd0GDJgfqCRFQTHjT5XV+XEJXVuzXtE3ZF2YjbI=
 			</data>
 		</dict>
 		<key>CDockEndOfSwipePhone.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0nzR0KjVPnejFlMopg8i+qXV+uq5B8oFSK8vj7BWDHw=
+			gMH+CauHvd7sZStdQJtOp5bURg3qXpNSF+PN1Oj+f4c=
 			</data>
 		</dict>
 		<key>CDockImageCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			AYUE9Th+t9EKUVRd9F+tjL98aG8FyGoJJ8FFv/kPx8E=
+			HClIifytSNjbgiVqpxUwzX6Ix6MB10sp+QHhVDogUKg=
 			</data>
 		</dict>
 		<key>CDockMapLayer.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wy3rw707fi2xmpjw1OvDBMlsFsAMEmMseqAmGaQUfUg=
+			pIxZVFy0A5n3gCx51TxgIHcZDDY3tSXQzOWksyyjv18=
 			</data>
 		</dict>
 		<key>CDockProjectImpress.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2mkceXuErv5KAU9cJibYz+ELbO0mRRBvvMJ/Fd85aLo=
+			AQDImU+mtBelLAGR0NhVmKX8XynchI0fHYudJw8hE8U=
 			</data>
 		</dict>
 		<key>CDockProjectImpressPhone.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ow+t3Z/OHWXAVB8W4dm0eMQoFs1HcFObZNoQvlybpRw=
+			axG+jhdv5gtfZUkp7oGmCXKgwkZ5K84jgAHT5GaRZZc=
 			</data>
 		</dict>
 		<key>CDockProjectLayer.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9ZEaqOmI/gN5odHP7rH/jCeMHD30gNySen3OP99zRW0=
+			iXCns767xQMpTSrOKJ4l+fZpWnZttE9hX1rz7OP1z4A=
 			</data>
 		</dict>
 		<key>CDockSiteTree.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			L8RuCDtpemS939Uft2GzoujRp7zSByMlodJ34t0x4SI=
+			p89+DqCfSIc6gGo/Wygx9J58vdKMG7SleDF/qqV+7kY=
 			</data>
 		</dict>
 		<key>CDockSiteTreeItem.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			73hTvelUusz88eZlM0VtVlzmRLTbDoBvPaoCf8AZNHE=
+			Are9V+AwSo8+6aNoOy3VArJpgYVPzvCtGKXcgJiRWU4=
 			</data>
 		</dict>
 		<key>CDockTemplate.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cBCUDS/q1nDAUZNB8ivJf8W0FVAkIK8XZLVNsBWzqAw=
+			coKVlr333bvLXZXdwmMBAzIpwoKJfes6510EbA7Smts=
 			</data>
 		</dict>
 		<key>CDockTemplatesContainer.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CiRlh/Vz6KsztzztAvaPbEvNSYDSz150tEzoYY8rl9k=
+			S+tlhqsGZcwEFbJaB/JwkbYIBTrLVXK/gAHdpw/r7qU=
 			</data>
 		</dict>
 		<key>CDockThumbnail.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tfgraUgfL8LZYQ1gEcRadQ/nQJplyHCn8Go80YCnr7k=
+			/GvPW4Xg3+g569XDXP70pAyPwuDBVL9KYHPAuwJjquw=
 			</data>
 		</dict>
 		<key>CDockThumbnailItem.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Xzaro1Gchj+I1YLxYM8bm1VaQtrpD7S/HVMG2dV0x4I=
+			4VWbSNxpe6PvuQM8F1rARn83odKVUE+W+DPKAtYC6Xs=
 			</data>
 		</dict>
 		<key>Data.momd/Data.mom</key>
@@ -709,95 +689,102 @@
 			0Rsk/l+BC+WH6hFGtV/ES3ZGh/YUf/OP8CEK9ZFVO2Q=
 			</data>
 		</dict>
-		<key>Headers/CDockCategoryModel.h</key>
+		<key>Headers/CDockCategory.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cXZJN2QRLnpFFux9MlM+XQ3zNM477R2Omxv/LzIM9xY=
+			UVcjBQUHyAyf4C/eRPnFbJwwWKy5csfxQpmO1f57IhQ=
 			</data>
 		</dict>
 		<key>Headers/CDockCustomElement.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PEODKhHXYAyspJw7lqFnyf3JxQmYg3+ze2tZYTBGugw=
+			E7A5sA8HiJQvQn2+KqTqxjvemFsd8BHEzczzp9bI1wI=
 			</data>
 		</dict>
 		<key>Headers/CDockDataContainer.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gJajpGx1vHPX/J92yi7IjSF4HP2CHcbyM2JcQWiAKx0=
+			YJtogZ/99fd+eSrp3ytDkReFMBRHM6mAdGVQhN6fpyk=
 			</data>
 		</dict>
 		<key>Headers/CDockDataContainerRecord.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			C2gf0QFRTqKmlYzUU6qh2Hh9aMu6o5+Te7PZS5FE1po=
+			JVLMPwYc/5PL1ExyP2q6PXnHYI7g8CJ6U8sVqM2cBKQ=
 			</data>
 		</dict>
 		<key>Headers/CDockFramework-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QkPnRIUpIn2wjDPUdJ5E5irRcRE0Z1xV0yizn/zXYy8=
+			ETHFpSvIScE1Ba8qkn89g/KkPhkylOquAEKO0Ybpu+c=
 			</data>
 		</dict>
 		<key>Headers/CDockFramework.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NHkOcrNqb68VKaaYg0rPpcHpjFR3DYL/tlu+yKEtrkU=
+			ffceA50odw06LbsQOJHOVVpMfQUrP9EkxDYZr4HlIvw=
 			</data>
 		</dict>
-		<key>Headers/CDockProjectModel.h</key>
+		<key>Headers/CDockProject.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			z4o5UrOjQuSZM33PsQMbDzLalOzmKtR2dc4lS1YrBZ4=
+			Vka2ZLhtopNavvIl60AeeNQCrf3cbzjXRt5qDu3eu+4=
 			</data>
 		</dict>
 		<key>Headers/CDockSDK.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			sKvYQTdqBjRfdOhad9ApmwvN3fBBr3aEIqo0tzY4Q6c=
+			lXLPYzDnNCMDHrLTkOTJI0iiGreOaWOwNWzwpsvJkjM=
+			</data>
+		</dict>
+		<key>Headers/CDockType.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			l2Ku3v6jB/JY1NevZ4nqtZTzMlz/e7aTvlSbcqGsbAk=
 			</data>
 		</dict>
 		<key>Headers/CDockUIImageView.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UejFO4p1sxQR94k1D7BcpwWbwVcPEbkqeyKLCQhfeXk=
+			TKd0XOTQo2mHSFR5OSd3pXJlUxG4gIq6aRoD4/4buQU=
 			</data>
 		</dict>
 		<key>Modules/CDockFramework.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ONBE15Sh2RN/wq9IvG9zEWPZBGz2c+hNxrvdV5rJPRc=
+			ST7t+ln7ILer69Bs7a9O+v3DK2U4fuX0ch4QaL4mfvQ=
 			</data>
 		</dict>
 		<key>Modules/CDockFramework.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ONBE15Sh2RN/wq9IvG9zEWPZBGz2c+hNxrvdV5rJPRc=
+			ST7t+ln7ILer69Bs7a9O+v3DK2U4fuX0ch4QaL4mfvQ=
 			</data>
 		</dict>
 		<key>Modules/CDockFramework.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WlV2Yvqp7uGomsBtA507ZO7zzLoNecxM1AX/Gkdmzl8=
+			rBB6Y1/iGaPZKT5qQvOTHyEh1Q46WvHNIBY8kHqC0YM=
 			</data>
 		</dict>
 		<key>Modules/CDockFramework.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WlV2Yvqp7uGomsBtA507ZO7zzLoNecxM1AX/Gkdmzl8=
+			rBB6Y1/iGaPZKT5qQvOTHyEh1Q46WvHNIBY8kHqC0YM=
 			</data>
 		</dict>
 		<key>Modules/CDockFramework.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -811,14 +798,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			NXoWdTyd65ir5uCBrVvLZpkj1Gf+AMwZfEqvisqk0WM=
+			D8trUTBxpJUC5LmryjaTW7Z9ShamsPPj/iQBpxxsMGs=
 			</data>
 		</dict>
 		<key>Modules/CDockFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gfuZeJKGA+7WN0+0D8dAOnKEzKEA9R6wik1iqhggBSc=
+			UDm50PrgE/w9ZxgCqn+GCkgB9K0r8YdSv7DdjGfHG24=
 			</data>
 		</dict>
 		<key>Modules/CDockFramework.swiftmodule/arm64.swiftdoc</key>
@@ -832,14 +819,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			NXoWdTyd65ir5uCBrVvLZpkj1Gf+AMwZfEqvisqk0WM=
+			D8trUTBxpJUC5LmryjaTW7Z9ShamsPPj/iQBpxxsMGs=
 			</data>
 		</dict>
 		<key>Modules/CDockFramework.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gfuZeJKGA+7WN0+0D8dAOnKEzKEA9R6wik1iqhggBSc=
+			UDm50PrgE/w9ZxgCqn+GCkgB9K0r8YdSv7DdjGfHG24=
 			</data>
 		</dict>
 		<key>Modules/CDockFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -853,14 +840,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4kHEMGs0lCUtO6hJnd6XT7ENsZCsUaN67Uf+gxJOV4I=
+			B/3rNHfT22+X9QdXenlb0LH7sfUY0gzrAixGqvpdgdw=
 			</data>
 		</dict>
 		<key>Modules/CDockFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wwAV7bSlCR6LYEJJeyojo8Ca7a7zxn5sjqi8vCBXBDw=
+			7ZuLEOWJuhOw0dA52vpuefNNBT6/+H49xkf62RH734k=
 			</data>
 		</dict>
 		<key>Modules/CDockFramework.swiftmodule/x86_64.swiftdoc</key>
@@ -874,14 +861,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4kHEMGs0lCUtO6hJnd6XT7ENsZCsUaN67Uf+gxJOV4I=
+			B/3rNHfT22+X9QdXenlb0LH7sfUY0gzrAixGqvpdgdw=
 			</data>
 		</dict>
 		<key>Modules/CDockFramework.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wwAV7bSlCR6LYEJJeyojo8Ca7a7zxn5sjqi8vCBXBDw=
+			7ZuLEOWJuhOw0dA52vpuefNNBT6/+H49xkf62RH734k=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -987,20 +974,6 @@
 			<key>hash2</key>
 			<data>
 			G99YHgOCVzvMtT7gXpHDKtV2boNrUkwkw4rhaTGdGVk=
-			</data>
-		</dict>
-		<key>SingleProjectSyncProgressBar@2x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			umHMYBfW8kOAVCrC32HZbD9QnT5Fqr8Es/VotBxdKq8=
-			</data>
-		</dict>
-		<key>SingleProjectSyncProgressTube@2x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			djvapMJ1ljV7bGn+C5DAz3zqTdoINYLJ9CxQLXirUBo=
 			</data>
 		</dict>
 		<key>btnDrawerCleanAll@2x.png</key>
@@ -1481,34 +1454,6 @@
 			<key>hash2</key>
 			<data>
 			w3T35m5Z6yM2L+qippqFB3LDLacQooaKZ4os7aSxXIg=
-			</data>
-		</dict>
-		<key>projectDetailProgressViewProgressBar.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			qiED8HWKxxMZ1CFvLRnVeyJnkG+LHWWYJzCBFLbbr5U=
-			</data>
-		</dict>
-		<key>projectDetailProgressViewProgressBar@2x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			pryTQ2xfsOHkhATEMpldpFNWgX+hr1iBMuIjR5eO6ko=
-			</data>
-		</dict>
-		<key>projectDetailProgressViewProgressBarBack.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			mBOQDG6D5Wp4F/43UmNzdhFawrXZ5Dxeffvq2DEeLM0=
-			</data>
-		</dict>
-		<key>projectDetailProgressViewProgressBarBack@2x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			pguJKQVRtXbKX6G/LJ6jalSK5F8+nAz9SvZr517T9bY=
 			</data>
 		</dict>
 		<key>subtreeExpand.png</key>
