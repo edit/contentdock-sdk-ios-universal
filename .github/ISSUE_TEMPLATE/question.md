@@ -1,6 +1,6 @@
 ---
 name: Question
-about: Describe your question here.
+about: Don't hesitate, just post your question.
 title: "[QUESTION]"
 labels: ''
 assignees: ''
